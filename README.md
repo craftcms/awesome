@@ -1,3 +1,9 @@
+<h1 align="center">
+	<img width="400" src="https://cdn.rawgit.com/chasegiunta/awesome-craft/master/awesome-craft.svg" alt="Awesome Craft CMS">
+	<br>
+	<br>
+</h1>
+
 # Awesome Craft CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome [Craft CMS](https://craftcms.com) plugins, articles, resources and shiny things.
 
