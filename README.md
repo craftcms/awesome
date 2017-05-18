@@ -1,5 +1,5 @@
 # Awesome Craft CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of awesome Craft CMS plugins, articles, resources and shiny things.
+A collection of awesome [Craft CMS](https://craftcms.com) plugins, articles, resources and shiny things.
 
 ### Contributing
 Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first. If you see a plugin, article, or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all contributors; you rock!
