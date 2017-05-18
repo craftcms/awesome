@@ -2,7 +2,7 @@
 A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 
 ### Contributing
-Please take a quick look at the contribution guidelines first. If you see a plugin, article, or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all contributors; you rock!
+Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first. If you see a plugin, article, or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all contributors; you rock!
 
 ### Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
