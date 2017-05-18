@@ -21,8 +21,9 @@ Please take a quick look at the contribution guidelines first. If you see a plug
   - [Images](#images)
   - [Navigation](#navigation)
   - [Integrations](#integrations)
-  - [Social](#social)
+    - [Social](#social)
   - [Twig](#twig)
+  - [Social](#social-1)
   - [Cache](#cache)
   - [Development](#development)
       - [Build Process](#build-process)
@@ -156,6 +157,7 @@ Please take a quick look at the contribution guidelines first. If you see a plug
 - [Imgix](https://superbig.co/plugins/imgix) Use Imgix.
 - [Embedly](https://superbig.co/plugins/embedly) Use Embed.ly to fetch information and embed content from 250+ services.
 - [Drift](https://superbig.co/plugins/drift) Integrate Drift.com
+
 #### Social
 - [Social Login](https://dukt.net/social) Let your visitors log in & register with web services like Facebook, Google, Twitter.
 - [Disqus](https://github.com/nystudio107/disqus) Integrate the Disqus commenting system including Single Sign On (SSO) and custom login/logout URLs.
@@ -167,20 +169,19 @@ Please take a quick look at the contribution guidelines first. If you see a plug
 - [Olark](https://superbig.co/plugins/olark) Integrate Olark.
 
 
-### Social
-- [Comments](https://github.com/engram-design/Comments) Allows your Craft users to comment on elements. Manage comments within CMS.
-- [Social Poster](https://github.com/engram-design/SocialPoster) Automatically post entries to social media.
-- [UpVote](https://craftpl.us/plugins/upvote) Gives you the ability to upvote, downvote, or "Like" on any element.
-- [Star Ratings](https://craftpl.us/plugins/star-ratings) An elegant ratings system. Secure and easily configurable, any element type can be rated!
-- [Sprout Lists](https://sprout.barrelstrengthdesign.com/craft-plugins/lists) Allow users to subscribe to, follow, or like any Element. Display counts and related content.
-
-
 ### Twig
 - [Hacksaw](https://github.com/ehousestudio/craft_hacksaw) Simple text truncation. Strips the HTML and limits the excerpts by character count, word count, or cutoff marker.
 - [RetconHTML](https://github.com/mmikkel/RetconHTML-Craft) A collection of Twig filters for rewriting HTML content.
 - [Sprout Active](https://sprout.barrelstrengthdesign.com/craft-plugins/active) Easily manage active states and conditional content based on your selected URL segments.
 - [Inflect](https://github.com/lukeholder/craft-inflect) Several Twig filters to transform the inflection of strings.
 - [Image Color](https://github.com/familiar-studio/craft-image-color) Grabs the most prominate colors from any image asset using a twig filter on an assets object.
+
+### Social
+- [Comments](https://github.com/engram-design/Comments) Allows your Craft users to comment on elements. Manage comments within CMS.
+- [Social Poster](https://github.com/engram-design/SocialPoster) Automatically post entries to social media.
+- [UpVote](https://craftpl.us/plugins/upvote) Gives you the ability to upvote, downvote, or "Like" on any element.
+- [Star Ratings](https://craftpl.us/plugins/star-ratings) An elegant ratings system. Secure and easily configurable, any element type can be rated!
+- [Sprout Lists](https://sprout.barrelstrengthdesign.com/craft-plugins/lists) Allow users to subscribe to, follow, or like any Element. Display counts and related content.
 
 
 ### Cache
