@@ -1,8 +1,7 @@
-<h1 align="center">
+<div align="center">
 	<img width="400" src="https://cdn.rawgit.com/chasegiunta/awesome-craft/master/awesome-craft.svg" alt="Awesome Craft CMS">
-	<br>
-	<br>
-</h1>
+  <br><br>
+</div>
 
 # Awesome Craft CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome [Craft CMS](https://craftcms.com) plugins, articles, resources and shiny things.
@@ -92,7 +91,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Calendar
 - [Calendar](https://solspace.com/craft/calendar) Create full-featured calendars and recurring events with exceptions.
 - [Venti2](https://venticalendar.io/) Easily create unlimited event calendars, manage recurring event schedules, output multiple views and much more.
-- [Craft Calendars](https://topshelfcraft.com/calendars/introduction)An easy-to-use, powerful-as-balls events Calendar for Craft. Any Element can be an event.
+- [Craft Calendars](https://topshelfcraft.com/calendars/introduction) An easy-to-use, powerful-as-balls events Calendar for Craft. Any Element can be an event.
 
 
 ### Field Types
@@ -108,7 +107,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Template Select](https://superbig.co/plugins/template-select) Lets you select templates from your entry.
 - [Hue](https://github.com/TopShelfCraft/Hue) A slightly better color picker.
 - [Randomm](https://superbig.co/plugins/randomm) Allows you to create random things via chance.js
-- [Button Box](https://github.com/supercool/buttonbox) Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers)
+- [Button Box](https://github.com/supercool/buttonbox) Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers).
 - [Pimp My Matrix](https://github.com/supercool/Pimp-My-Matrix) Provides additional control for displaying blocks and fields within a Matrix field.
 
 
@@ -147,7 +146,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [ImageResizer](https://github.com/engram-design/ImageResizer) Resize images on upload.
 - [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) Choose coordinates on an image for the focus point on responsive images.
 - [donkeytail](https://github.com/simplygoodwork/donkeytail-plugin) Quickly and easily content manage points on images, locations on a faux map, or showcasing multiple products within an image.
-- [Ansel] (https://buzzingpixel.com/software/ansel-craft) Define image fields with minimum and/or maximum requirements, aspect ratios, minimum/maximum number of images, and more.
+- [Ansel](https://buzzingpixel.com/software/ansel-craft) Define image fields with minimum and/or maximum requirements, aspect ratios, minimum/maximum number of images, and more.
 - [TinyImage](https://craftpl.us/plugins/tiny-image) Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
 
 
