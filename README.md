@@ -83,6 +83,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Sitemap](https://craftpl.us/plugins/sitemap) Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) Intelligently redirect legacy URLs, so that you don't lose SEO value when rebuilding & restructuring a website.
 
+### Calendar
+- [Calendar](https://solspace.com/craft/calendar) Create full-featured calendars and recurring events with exceptions.
+- [Venti2](https://venticalendar.io/) Easily create unlimited event calendars, manage recurring event schedules, output multiple views and much more.
+- [Craft Calendars](https://topshelfcraft.com/calendars/introduction)An easy-to-use, powerful-as-balls events Calendar for Craft. Any Element can be an event.
+
 
 ### Field Types
 - [Neo](https://github.com/benjamminf/craft-neo) A Matrix-like field type that uses existing fields.
