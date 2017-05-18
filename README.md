@@ -141,6 +141,7 @@ Please take a quick look at the contribution guidelines first. If you see a plug
 
 
 ### Navigation
+- [a&m nav](https://github.com/am-impact/amnav) Navigations in Craft, made easy.
 - [Navee](https://github.com/fromtheoutfit/navee) Simple Navigation, Made Simple. Build any kind of navigation you like, without limitation.
 
 
