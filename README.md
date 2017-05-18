@@ -4,6 +4,40 @@ A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 ### Contributing
 Please take a quick look at the contribution guidelines first. If you see a plugin, article, or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all contributors; you rock!
 
+### Contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Articles](#articles)
+  - [Technical](#technical)
+  - [Why Craft? (Praises)](#why-craft-praises)
+- [Plugins](#plugins)
+  - [SEO](#seo)
+  - [Field Types](#field-types)
+  - [Control Panel](#control-panel)
+  - [Data](#data)
+  - [Forms](#forms)
+  - [Images](#images)
+  - [Navigation](#navigation)
+  - [Integrations](#integrations)
+  - [Social](#social)
+  - [Twig](#twig)
+  - [Cache](#cache)
+  - [Development](#development)
+      - [Build Process](#build-process)
+      - [Debugging](#debugging)
+      - [Fields](#fields)
+      - [Maintenance](#maintenance)
+      - [Etc.](#etc)
+  - [Security](#security)
+  - [Misc](#misc)
+  - [Commerce](#commerce)
+- [Development Tools/Resources](#development-toolsresources)
+- [Third Party Resources](#third-party-resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Articles
 ### Technical
 - [Localization & Multi-Environment Setup in Craft.](https://designkarma.co.uk/blog/localization-multi-environment-setup-in-craft) by Ian Ebden/Design Karma
