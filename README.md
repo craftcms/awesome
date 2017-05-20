@@ -259,6 +259,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Country Redirect](https://superbig.co/plugins/country-redirect) Easily redirect visitors to a locale based on their country of origin
 - [Large Upload](https://superbig.co/plugins/large-upload) Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
 - [Task Manager](https://github.com/boboldehampsink/taskmanager) Adds a "Task Manager" section to your CP to easily cancel or delete Craft Tasks.
+- [Boris](https://github.com/webdna/boris) Make your entries invincible! Protect them from being deleted.
  
  
 ### Commerce
