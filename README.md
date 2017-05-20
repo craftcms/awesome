@@ -189,6 +189,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Image Color](https://github.com/familiar-studio/craft-image-color) Grabs the most prominate colors from any image asset using a twig filter on an assets object.
 - [Fetch](https://github.com/netliferesearch/craft-fetch) Relays PHP's `file_get_contents()` to return contents in raw format. Useful for embedding external svg code inline.
 - [Filter Environment Variables](https://github.com/lindseydiloreto/craft-filterenvvar) Replace environment variable strings in your Twig variables.
+- [PathTools](https://github.com/nystudio107/pathtools) Brings convenient path & url manipulation functions & filters to your Twig templates.
 
 ### Social
 - [Comments](https://github.com/engram-design/Comments) Allows your Craft users to comment on elements. Manage comments within CMS.
