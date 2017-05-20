@@ -50,6 +50,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by MadeByShape
 - [The Living Component Library](https://clearleft.com/posts/443) by Graham Smith/Clearleft
 - [Getting Started with CraftCMS](https://www.jonathankelley.design/blog/getting-started-with-craftcms) by Jonathan Kelley
+- [Craft CMS: Building Complex Queries by Extending the ElementCriteriaModel](https://blog.tighten.co/craft-cms-building-complex-queries-by-extending-the-elementcriteriamodel) by Tighten Co.
 #### Articles by Andrew Welch @ [nystudio107](https://nystudio107.com/blog)
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms)
 - [Simple Static Asset Versioning in Craft CMS](https://nystudio107.com/blog/simple-static-asset-versioning)
