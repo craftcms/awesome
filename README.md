@@ -86,7 +86,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [SEOmatic](https://github.com/nystudio107/seomatic) A turnkey SEO implementation for Craft CMS that is comprehensive, powerful, and flexible.
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search, Structured Data, and Social Sharing.
 - [SEO](https://github.com/ethercreative/seo) Search engine optimization utilities for Craft CMS.
-- [Sitemap](https://craftpl.us/plugins/sitemap) Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
+- [Sitemap](https://www.putyourlightson.net/craft-sitemap) Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
 - [Retour](https://github.com/nystudio107/retour) Intelligently redirect legacy URLs, so that you don't lose SEO value when rebuilding & restructuring a website.
 
 ### Calendar
@@ -239,8 +239,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
  
  
 ### Security
-- [Sherlock](https://craftpl.us/plugins/sherlock) Security scanner and monitor to keep your site and CMS secure.
-- [Snaptcha](https://craftpl.us/plugins/snaptcha) Invisible captcha that automatically validates your forms on submission.
+- [Sherlock](https://www.putyourlightson.net/craft-sherlock) Security scanner and monitor to keep your site and CMS secure.
+- [Snaptcha](https://www.putyourlightson.net/craft-snaptcha) Invisible captcha that automatically validates your forms on submission.
 - [Digital Download](https://craftpl.us/plugins/digital-download) Provide secure digital download links to your files. Set the expiration date, maximum number of downloads, and/or required user access.
 - [Exclusive](https://craftpl.us/plugins/exclusive) Allow limited and selected public registration on your website by generating and distributing unique registration tokens.
 - [Sprout Invisible Captcha](https://sprout.barrelstrengthdesign.com/craft-plugins/invisible-captcha) Protect your forms from spam using unobtrusive invisible captchas.
