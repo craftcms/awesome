@@ -263,6 +263,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Large Upload](https://superbig.co/plugins/large-upload) Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
 - [Task Manager](https://github.com/boboldehampsink/taskmanager) Adds a "Task Manager" section to your CP to easily cancel or delete Craft Tasks.
 - [Boris](https://github.com/webdna/boris) Make your entries invincible! Protect them from being deleted.
+- [Anchors](https://github.com/craftcms/anchors) Add anchor links to headings in your website content. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
  
  
 ### Commerce
