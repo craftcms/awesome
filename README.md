@@ -128,6 +128,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [The Architect](https://github.com/Pennebaker/craftcms-thearchitect) Construct Groups, Fields, Sections, EntryTypes, Transforms, Globals, Assets, Categories, and Users & User Groups from JSON data.
 - [Sprout Import](https://sprout.barrelstrengthdesign.com/craft-plugins/import) Import, migrate, seed, and weed content and settings into Craft CMS, Craft Commerce, the Sprout Plugin Suite, and add your own custom integrations.
 - [Sprout Reports](https://sprout.barrelstrengthdesign.com/craft-plugins/reports) Customize, save, and run the reports you need to manage your business. Export all of your website data and custom reports in CSV format.
+- [Reports](https://superbig.co/plugins/reports) Write reports with Twig.
 - [Import](https://github.com/boboldehampsink/import/tree/master) Import data from CSV files.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) Simple way to create DB backups.
 - [ArtVandelay](https://github.com/xodigital/ArtVandelay) Importing and exporting fields.
