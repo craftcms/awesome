@@ -135,6 +135,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### Forms
+- [Contact Form](https://github.com/craftcms/contact-form/tree/v1) Add a simple contact form to your site. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 - [FormBuilder 2](https://github.com/roundhouse/FormBuilder-2-Craft-CMS) Create & manage forms for your front-end. Entries get stored to database so you can easily view your submission or export them.
 - [Sprout Forms](https://sprout.barrelstrengthdesign.com/craft-plugins/forms) Create and manage multiple forms. Save submitted form data, receive notification emails on submissions.
 - [Freeform](https://solspace.com/craft/freeform) Gives you full control to create simple or complex multi-page forms, and has options for many different API integrations.
