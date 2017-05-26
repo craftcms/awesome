@@ -46,6 +46,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 ### Technical
+- [Quick Tips: Craft CMS](http://gregorterrill.com/blog/2017/quick-tips-craft-cms) by Gregor Terrill
 - [Responsive Images with srcset & Craft](https://www.viget.com/articles/responsive-images-with-srcset-craft) by Trevor Davis/Viget
 - [Localization & Multi-Environment Setup in Craft.](https://designkarma.co.uk/blog/localization-multi-environment-setup-in-craft) by Ian Ebden/Design Karma
 - [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by MadeByShape
