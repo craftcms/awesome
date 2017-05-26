@@ -131,6 +131,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Reports](https://superbig.co/plugins/reports) Write reports with Twig.
 - [Import](https://github.com/boboldehampsink/import/tree/master) Import data from CSV files.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) Simple way to create DB backups.
+- [Out](https://github.com/ethercreative/out) A super-simple plugin for creating CSV exports of you entry data.
 - [ArtVandelay](https://github.com/xodigital/ArtVandelay) Importing and exporting fields.
 
 
