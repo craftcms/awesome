@@ -111,6 +111,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Randomm](https://superbig.co/plugins/randomm) Allows you to create random things via chance.js
 - [Button Box](https://github.com/supercool/buttonbox) Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers).
 - [Pimp My Matrix](https://github.com/supercool/Pimp-My-Matrix) Provides additional control for displaying blocks and fields within a Matrix field.
+- [Store Hours](https://github.com/craftcms/store-hours) Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 
 
 ### Control Panel
@@ -268,7 +269,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Task Manager](https://github.com/boboldehampsink/taskmanager) Adds a "Task Manager" section to your CP to easily cancel or delete Craft Tasks.
 - [Boris](https://github.com/webdna/boris) Make your entries invincible! Protect them from being deleted.
 - [Anchors](https://github.com/craftcms/anchors) Add anchor links to headings in your website content. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [Store Hours](https://github.com/craftcms/store-hours) Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
  
  
 ### Commerce
