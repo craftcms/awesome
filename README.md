@@ -226,6 +226,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Query](https://github.com/craftcms/query/tree/v1) Enables admins to run SQL queries from the CP. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 - [Kint](https://github.com/mildlygeeky/craft_kint) An in-app PHP debugger for use in Twig and PHP.
 - [Inspector](https://github.com/amacneil/craft-inspector) Adds a helpful `inspect` method to your templates - figure out what kind of variables you are dealing with, and what methods they implement.
+- [Query Log](https://github.com/rsanchez/craft-query-log) Show a log of database queries in your front-end templates.
 - [Bugsnag](https://superbig.co/plugins/bugsnag) Log Craft errors/exceptions to Bugsnag.
 
 ##### Fields
