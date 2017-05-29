@@ -134,6 +134,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Import](https://github.com/boboldehampsink/import/tree/master) Import data from CSV files.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) Simple way to create DB backups.
 - [Out](https://github.com/ethercreative/out) A super-simple plugin for creating CSV exports of you entry data.
+- [Beam](https://superbig.co/plugins/beam) Generate CSV and XLS files in your templates.
 - [ArtVandelay](https://github.com/xodigital/ArtVandelay) Importing and exporting fields.
 - [Element API](https://github.com/craftcms/element-api) Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
 
