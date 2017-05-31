@@ -46,6 +46,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 ### Technical
+- [DRY Templating with Twig and Craft CMS](https://medium.com/base-voices/dry-templating-with-twig-and-craft-cms-543292d114aa) by Pierre Stoffe/Base Digital
 - [Quick Tips: Craft CMS](http://gregorterrill.com/blog/2017/quick-tips-craft-cms) by Gregor Terrill
 - [Responsive Images with srcset & Craft](https://www.viget.com/articles/responsive-images-with-srcset-craft) by Trevor Davis/Viget
 - [Localization & Multi-Environment Setup in Craft.](https://designkarma.co.uk/blog/localization-multi-environment-setup-in-craft) by Ian Ebden/Design Karma
