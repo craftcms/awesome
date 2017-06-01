@@ -259,6 +259,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Sprout Encode Email](https://sprout.barrelstrengthdesign.com/craft-plugins/encode-email) Encode the email addresses in your templates so they can't be harvested by evil spam bots.
 - [CrawlerDetect](https://superbig.co/plugins/crawlerdetect) Detect 1.000's of bots/crawlers/spiders.
 - [Restrict](https://superbig.co/plugins/restrict) Restrict access to the CP based on a IP whitelist.
+- [Internal Assets](https://github.com/tikiatua/internal-assets-plugin) Restrict access to assets for permitted users only.
 
 
 ### Misc
