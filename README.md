@@ -105,7 +105,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [LinkIt](https://github.com/fruitstudios/LinkIt) Multi-purpose link plugin for Craft CMS.
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) Add conditionals to your field layouts.
 - [Doxter](https://github.com/selvinortiz/craft.doxter) Markdown editor and parser.
-- [SmartMap](https://craftpl.us/plugins/smart-map) Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
+- [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Simple Map](https://github.com/ethercreative/simplemap) Google Map field type with full localization support, compatible with Matrix, supports searching by location and sorting by distance.
 - [VZ Address](https://github.com/elivz/VzAddress-Craft) Simple address field.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more!
@@ -204,8 +204,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Social
 - [Comments](https://github.com/engram-design/Comments) Allows your Craft users to comment on elements. Manage comments within CMS.
 - [Social Poster](https://github.com/engram-design/SocialPoster) Automatically post entries to social media.
-- [UpVote](https://craftpl.us/plugins/upvote) Gives you the ability to upvote, downvote, or "Like" on any element.
-- [Star Ratings](https://craftpl.us/plugins/star-ratings) An elegant ratings system. Secure and easily configurable, any element type can be rated!
+- [UpVote](https://www.doublesecretagency.com/plugins/upvote) Gives you the ability to upvote, downvote, or "Like" on any element.
+- [Star Ratings](https://www.doublesecretagency.com/plugins/star-ratings) An elegant ratings system. Secure and easily configurable, any element type can be rated!
 - [Sprout Lists](https://sprout.barrelstrengthdesign.com/craft-plugins/lists) Allow users to subscribe to, follow, or like any Element. Display counts and related content.
 
 
@@ -253,7 +253,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Security
 - [Sherlock](https://www.putyourlightson.net/craft-sherlock) Security scanner and monitor to keep your site and CMS secure.
 - [Snaptcha](https://www.putyourlightson.net/craft-snaptcha) Invisible captcha that automatically validates your forms on submission.
-- [Digital Download](https://craftpl.us/plugins/digital-download) Provide secure digital download links to your files. Set the expiration date, maximum number of downloads, and/or required user access.
+- [Digital Download](https://www.doublesecretagency.com/plugins/digital-download) Provide secure digital download links to your files. Set the expiration date, maximum number of downloads, and/or required user access.
 - [Exclusive](https://craftpl.us/plugins/exclusive) Allow limited and selected public registration on your website by generating and distributing unique registration tokens.
 - [Sprout Invisible Captcha](https://sprout.barrelstrengthdesign.com/craft-plugins/invisible-captcha) Protect your forms from spam using unobtrusive invisible captchas.
 - [Sprout Encode Email](https://sprout.barrelstrengthdesign.com/craft-plugins/encode-email) Encode the email addresses in your templates so they can't be harvested by evil spam bots.
@@ -267,7 +267,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel.
 - [Cookies](https://github.com/nystudio107/cookies) A simple plugin for setting and getting secure cookies from within templates.
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) Simple plugin for setting and retrieving cookies from within templates.
-- [AdWizard](https://craftpl.us/plugins/ad-wizard) Easily manage custom advertisements on your website!
+- [AdWizard](https://www.doublesecretagency.com/plugins/ad-wizard) Easily manage custom advertisements on your website!
 - [Printmaker](https://craftpl.us/plugins/printmaker) Template-based HTML-to-PDF engine: Save or output a PDF from any template, URL, or string.
 - [Scraper](https://craftpl.us/plugins/scraper) Fetch HTML from any URL and manipulate it in your Twig templates.
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink) Easily switch between languages on any page of your website.
