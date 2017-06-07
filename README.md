@@ -282,6 +282,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Commerce
 _(Forthcoming)_
 
+----
+Updated list of Craft 3 plugins (currently in beta) [can be found here.](https://github.com/craftcms/plugins)
+
+----
 
 ## Development Tools/Resources
 - [pluginfactory.io](https://pluginfactory.io/) Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
