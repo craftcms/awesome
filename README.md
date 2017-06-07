@@ -102,6 +102,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Field Types
 - [Neo](https://github.com/benjamminf/craft-neo) A Matrix-like field type that uses existing fields.
 - [SuperTable](https://github.com/engram-design/SuperTable) Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix.
+- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) Simple plugin for populating fields with dynamic data
 - [LinkIt](https://github.com/fruitstudios/LinkIt) Multi-purpose link plugin for Craft CMS.
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) Add conditionals to your field layouts.
 - [Doxter](https://github.com/selvinortiz/craft.doxter) Markdown editor and parser.
