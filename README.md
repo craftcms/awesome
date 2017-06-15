@@ -128,6 +128,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) Easily identify your matrix blocks, by assigning a different color for each block type.
 - [Content Stats](https://github.com/wbrowar/contentstats) Dashboard widget to see how many entries have been created for channels and structures.
 - [Expanded Singles](https://github.com/engram-design/ExpandedSingles) Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link.
+- [a&m command](https://github.com/am-impact/amcommand) Command palette in Craft
 
 
 ### Data
