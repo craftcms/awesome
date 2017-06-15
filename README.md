@@ -279,6 +279,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Task Manager](https://github.com/boboldehampsink/taskmanager) Adds a "Task Manager" section to your CP to easily cancel or delete Craft Tasks.
 - [Boris](https://github.com/webdna/boris) Make your entries invincible! Protect them from being deleted.
 - [Anchors](https://github.com/craftcms/anchors) Add anchor links to headings in your website content. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
+- [Rich Variables](https://github.com/nystudio107/richvariables) Allows you to easily use Globals as variables in Rich Text fields
  
  
 ### Commerce
