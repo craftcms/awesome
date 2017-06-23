@@ -221,6 +221,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [CacheMonster](https://github.com/supercool/Cache-Monster) Keeps your cache permanently warm and optionally integrates with Varnish.
 - [No-Cache](https://github.com/benjamminf/craft-nocache) Extension to escape caching inside cache blocks.
 - [Cloudfront Invalidation](https://superbig.co/plugins/cloudfront-invalidation) Invalidate your cached assets on CloudFront.
+- [CacheFlag](https://github.com/mmikkel/CacheFlag-Craft) Provides an alternative way to have your caches clear automatically when your content changes.
 
 
 ### Development
