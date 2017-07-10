@@ -163,6 +163,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [donkeytail](https://github.com/simplygoodwork/donkeytail-plugin) Quickly and easily content manage points on images, locations on a faux map, or showcasing multiple products within an image.
 - [Ansel](https://buzzingpixel.com/software/ansel-craft) Define image fields with minimum and/or maximum requirements, aspect ratios, minimum/maximum number of images, and more.
 - [TinyImage](https://craftpl.us/plugins/tiny-image) Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
+- [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) Pretransform any Assets on save, with Imager.
 
 
 ### Navigation
