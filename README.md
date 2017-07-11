@@ -307,10 +307,10 @@ Updated list of Craft 3 plugins (currently in beta) [can be found here.](https:/
 
 
 ## Third Party Resources
-- [StackExchange](https://craftcms.stackexchange.com/)
-- [Straight Up Craft](http://straightupcraft.com/)
-- [Work With Craft](https://www.workwithcraft.com/)
-- [CraftX](https://craftx.io/)
-- [Craft Link List](http://craftlinklist.com/)
-- [Craft Cookbook](https://craftcookbook.net/)
-- [Mijingo](https://mijingo.com/products/screencasts/up-and-running-with-craft/)
+- [Craft CMS StackExchange](https://craftcms.stackexchange.com/) Q&A for administrators, end users, developers and designers.
+- [Straight Up Craft](http://straightupcraft.com/) Tutorials, plugin directory, event listings & more.
+- [Work With Craft](https://www.workwithcraft.com/) Dedicated job board aimed to connect employers with Craft professionals.
+- [CraftX](https://craftx.io/) Open source site built on Craft 3, and community of web professionals hosting hangouts.
+- [Craft Link List](http://craftlinklist.com/) Curated publication collecting interesting links.
+- [Craft Cookbook](https://craftcookbook.net/) Quick solutions to common Craft CMS problems.
+- [Mijingo](https://mijingo.com/products/screencasts/up-and-running-with-craft/) Video courses for learning Craft.
