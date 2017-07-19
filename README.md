@@ -107,17 +107,17 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Field Types
 - [Neo](https://github.com/benjamminf/craft-neo) Matrix-like field type that uses existing fields.
 - [SuperTable](https://github.com/engram-design/SuperTable) Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix.
-- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) Simple plugin for populating fields with dynamic data
+- [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) Simple plugin for populating fields with dynamic data.
 - [LinkIt](https://github.com/fruitstudios/LinkIt) Multi-purpose link plugin for Craft CMS.
 - [Reasons](https://github.com/mmikkel/Reasons-Craft) Add conditionals to your field layouts.
 - [Doxter](https://github.com/selvinortiz/craft.doxter) Markdown editor and parser.
 - [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Simple Map](https://github.com/ethercreative/simplemap) Google Map field type with full localization support, compatible with Matrix, supports searching by location and sorting by distance.
 - [VZ Address](https://github.com/elivz/VzAddress-Craft) Simple address field.
-- [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more!
+- [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more.
 - [Template Select](https://superbig.co/plugins/template-select) Lets you select templates from your entry.
 - [Hue](https://github.com/TopShelfCraft/Hue) Slightly better color picker.
-- [Randomm](https://superbig.co/plugins/randomm) Allows you to create random things via chance.js
+- [Randomm](https://superbig.co/plugins/randomm) Allows you to create random things via chance.js .
 - [Button Box](https://github.com/supercool/buttonbox) Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers).
 - [Pimp My Matrix](https://github.com/supercool/Pimp-My-Matrix) Provides additional control for displaying blocks and fields within a Matrix field.
 - [Store Hours](https://github.com/craftcms/store-hours) Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
@@ -131,7 +131,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) Easily identify your matrix blocks, by assigning a different color for each block type.
 - [Content Stats](https://github.com/wbrowar/contentstats) Dashboard widget to see how many entries have been created for channels and structures.
 - [Expanded Singles](https://github.com/engram-design/ExpandedSingles) Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link.
-- [a&m command](https://github.com/am-impact/amcommand) Command palette in Craft
+- [a&m command](https://github.com/am-impact/amcommand) Command palette in Craft.
 
 
 ### Data
@@ -186,7 +186,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Shopify Multipass](https://superbig.co/plugins/shopify-multipass) Allow a Craft user to be logged in to Shopify through Multipass.
 - [Imgix](https://superbig.co/plugins/imgix) Use Imgix.
 - [Embedly](https://superbig.co/plugins/embedly) Use Embed.ly to fetch information and embed content from 250+ services.
-- [Drift](https://superbig.co/plugins/drift) Integrate Drift.com
+- [Drift](https://superbig.co/plugins/drift) Integrate Drift.com .
 
 #### Social
 - [Social Login](https://dukt.net/social) Let your visitors log in & register with web services like Facebook, Google, Twitter.
@@ -213,13 +213,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Comments](https://github.com/engram-design/Comments) Allows your Craft users to comment on elements. Manage comments within CMS.
 - [Social Poster](https://github.com/engram-design/SocialPoster) Automatically post entries to social media.
 - [UpVote](https://www.doublesecretagency.com/plugins/upvote) Gives you the ability to upvote, downvote, or "Like" on any element.
-- [Star Ratings](https://www.doublesecretagency.com/plugins/star-ratings) Elegant ratings system. Secure and easily configurable, any element type can be rated!
+- [Star Ratings](https://www.doublesecretagency.com/plugins/star-ratings) Elegant ratings system. Secure and easily configurable, any element type can be rated.
 - [Sprout Lists](https://sprout.barrelstrengthdesign.com/craft-plugins/lists) Allow users to subscribe to, follow, or like any Element. Display counts and related content.
 
 
 ### Cache
 - [Presto](https://github.com/caddis/craft-presto) Static file extension for the native Craft cache.
-- [HTML Cache](https://github.com/craftapi/htmlcache) Generate static HTML files for your website. No need for Reddis/Varnish setups anymore!
+- [HTML Cache](https://github.com/craftapi/htmlcache) Generate static HTML files for your website. No need for Reddis/Varnish setups anymore.
 - [Cache Buster](https://github.com/focuslabllc/craftcms-cachebuster) Keep your front-end assets free of cache issues after they've changed.
 - [Cache Warmer](https://superbig.co/plugins/cache-warmer) Warm up your cache with a single request.
 - [CacheMonster](https://github.com/supercool/Cache-Monster) Keeps your cache permanently warm and optionally integrates with Varnish.
@@ -276,16 +276,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel.
 - [Cookies](https://github.com/nystudio107/cookies) Simple plugin for setting and getting secure cookies from within templates.
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) Simple plugin for setting and retrieving cookies from within templates.
-- [AdWizard](https://www.doublesecretagency.com/plugins/ad-wizard) Easily manage custom advertisements on your website!
+- [AdWizard](https://www.doublesecretagency.com/plugins/ad-wizard) Easily manage custom advertisements on your website.
 - [Printmaker](https://craftpl.us/plugins/printmaker) Template-based HTML-to-PDF engine: Save or output a PDF from any template, URL, or string.
 - [Scraper](https://craftpl.us/plugins/scraper) Fetch HTML from any URL and manipulate it in your Twig templates.
 - [Language Link](https://github.com/lindseydiloreto/craft-languagelink) Easily switch between languages on any page of your website.
-- [Country Redirect](https://superbig.co/plugins/country-redirect) Easily redirect visitors to a locale based on their country of origin
+- [Country Redirect](https://superbig.co/plugins/country-redirect) Easily redirect visitors to a locale based on their country of origin.
 - [Large Upload](https://superbig.co/plugins/large-upload) Makes it easy & safe to upload large files without any hassles like changing server settings and the risk of DDoS attacks.
 - [Task Manager](https://github.com/boboldehampsink/taskmanager) Adds a "Task Manager" section to your CP to easily cancel or delete Craft Tasks.
 - [Boris](https://github.com/webdna/boris) Make your entries invincible! Protect them from being deleted.
 - [Anchors](https://github.com/craftcms/anchors) Add anchor links to headings in your website content. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [Rich Variables](https://github.com/nystudio107/richvariables) Allows you to easily use Globals as variables in Rich Text fields
+- [Rich Variables](https://github.com/nystudio107/richvariables) Allows you to easily use Globals as variables in Rich Text fields.
  
  
 ### Commerce
