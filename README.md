@@ -186,7 +186,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Shopify Multipass](https://superbig.co/plugins/shopify-multipass) Allow a Craft user to be logged in to Shopify through Multipass.
 - [Imgix](https://superbig.co/plugins/imgix) Use Imgix.
 - [Embedly](https://superbig.co/plugins/embedly) Use Embed.ly to fetch information and embed content from 250+ services.
-- [Drift](https://superbig.co/plugins/drift) Integrate Drift.com .
+- [Drift](https://superbig.co/plugins/drift) Integrate Drift.com. Helps your team generate more leads and book meetings faster using messaging.
 
 #### Social
 - [Social Login](https://dukt.net/social) Let your visitors log in & register with web services like Facebook, Google, Twitter.
@@ -194,9 +194,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Videos](https://dukt.net/videos) Connect to YouTube & Vimeo and publish social videos on your website.
 - [Embedder](https://github.com/A-P/Embedder) Generate the exact, most up-to-date YouTube, Vimeo, Wistia, or Viddler embed code available.
 - [Discourse SSO](https://superbig.co/plugins/discourse-sso) Single Sign-On for Discourse.
-- [Crisp](https://superbig.co/plugins/crisp) Integrate Crisp.im .
-- [Chatra](https://superbig.co/plugins/chatra) Integrate Chatra easily.
-- [Olark](https://superbig.co/plugins/olark) Integrate Olark.
+- [Crisp](https://superbig.co/plugins/crisp) Integrate Crisp.im Free and beautiful livechat to interact with your customers.
+- [Chatra](https://superbig.co/plugins/chatra) Integrate Chatra easily. Powerful live chat software that helps to increase revenue and collect feedback.
+- [Olark](https://superbig.co/plugins/olark) Integrate Olark. Live chat to answer customers immediately on your website.
 
 
 ### Twig
