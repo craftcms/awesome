@@ -92,7 +92,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 
 ### SEO
-- [SEOmatic](https://github.com/nystudio107/seomatic) A turnkey SEO implementation for Craft CMS that is comprehensive, powerful, and flexible.
+- [SEOmatic](https://github.com/nystudio107/seomatic) Turnkey SEO implementation for Craft CMS that is comprehensive, powerful, and flexible.
 - [Sprout SEO](https://sprout.barrelstrengthdesign.com/craft-plugins/seo) Provides a seamless way to manage SEO strategy within Craft CMS. Create metadata for Search, Structured Data, and Social Sharing.
 - [SEO](https://github.com/ethercreative/seo) Search engine optimization utilities for Craft CMS.
 - [Sitemap](https://www.putyourlightson.net/craft-sitemap) Automatically creates a dynamic XML sitemap of your entire site and informs search engines exactly which pages on your site are available for crawling.
@@ -101,11 +101,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Calendar
 - [Calendar](https://solspace.com/craft/calendar) Create full-featured calendars and recurring events with exceptions.
 - [Venti2](https://venticalendar.io/) Easily create unlimited event calendars, manage recurring event schedules, output multiple views and much more.
-- [Craft Calendars](https://topshelfcraft.com/calendars/introduction) An easy-to-use, powerful-as-balls events Calendar for Craft. Any Element can be an event.
+- [Craft Calendars](https://topshelfcraft.com/calendars/introduction) Easy-to-use, powerful-as-balls events Calendar for Craft. Any Element can be an event.
 
 
 ### Field Types
-- [Neo](https://github.com/benjamminf/craft-neo) A Matrix-like field type that uses existing fields.
+- [Neo](https://github.com/benjamminf/craft-neo) Matrix-like field type that uses existing fields.
 - [SuperTable](https://github.com/engram-design/SuperTable) Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix.
 - [LJ Dynamic Fields](https://github.com/lewisjenkins/craft-lj-dynamicfields) Simple plugin for populating fields with dynamic data
 - [LinkIt](https://github.com/fruitstudios/LinkIt) Multi-purpose link plugin for Craft CMS.
@@ -116,7 +116,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [VZ Address](https://github.com/elivz/VzAddress-Craft) Simple address field.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more!
 - [Template Select](https://superbig.co/plugins/template-select) Lets you select templates from your entry.
-- [Hue](https://github.com/TopShelfCraft/Hue) A slightly better color picker.
+- [Hue](https://github.com/TopShelfCraft/Hue) Slightly better color picker.
 - [Randomm](https://superbig.co/plugins/randomm) Allows you to create random things via chance.js
 - [Button Box](https://github.com/supercool/buttonbox) Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers).
 - [Pimp My Matrix](https://github.com/supercool/Pimp-My-Matrix) Provides additional control for displaying blocks and fields within a Matrix field.
@@ -142,7 +142,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Reports](https://superbig.co/plugins/reports) Write reports with Twig.
 - [Import](https://github.com/boboldehampsink/import/tree/master) Import data from CSV files.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) Simple way to create DB backups.
-- [Out](https://github.com/ethercreative/out) A super-simple plugin for creating CSV exports of you entry data.
+- [Out](https://github.com/ethercreative/out) Super-simple plugin for creating CSV exports of you entry data.
 - [Beam](https://superbig.co/plugins/beam) Generate CSV and XLS files in your templates.
 - [ArtVandelay](https://github.com/xodigital/ArtVandelay) Importing and exporting fields.
 - [Element API](https://github.com/craftcms/element-api) Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
@@ -201,7 +201,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Twig
 - [Hacksaw](https://github.com/ehousestudio/craft_hacksaw) Simple text truncation. Strips the HTML and limits the excerpts by character count, word count, or cutoff marker.
-- [RetconHTML](https://github.com/mmikkel/RetconHTML-Craft) A collection of Twig filters for rewriting HTML content.
+- [RetconHTML](https://github.com/mmikkel/RetconHTML-Craft) Collection of Twig filters for rewriting HTML content.
 - [Sprout Active](https://sprout.barrelstrengthdesign.com/craft-plugins/active) Easily manage active states and conditional content based on your selected URL segments.
 - [Inflect](https://github.com/lukeholder/craft-inflect) Several Twig filters to transform the inflection of strings.
 - [Image Color](https://github.com/familiar-studio/craft-image-color) Grabs the most prominate colors from any image asset using a twig filter on an assets object.
@@ -213,7 +213,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Comments](https://github.com/engram-design/Comments) Allows your Craft users to comment on elements. Manage comments within CMS.
 - [Social Poster](https://github.com/engram-design/SocialPoster) Automatically post entries to social media.
 - [UpVote](https://www.doublesecretagency.com/plugins/upvote) Gives you the ability to upvote, downvote, or "Like" on any element.
-- [Star Ratings](https://www.doublesecretagency.com/plugins/star-ratings) An elegant ratings system. Secure and easily configurable, any element type can be rated!
+- [Star Ratings](https://www.doublesecretagency.com/plugins/star-ratings) Elegant ratings system. Secure and easily configurable, any element type can be rated!
 - [Sprout Lists](https://sprout.barrelstrengthdesign.com/craft-plugins/lists) Allow users to subscribe to, follow, or like any Element. Display counts and related content.
 
 
@@ -236,7 +236,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Debugging
 - [Query](https://github.com/craftcms/query/tree/v1) Enables admins to run SQL queries from the CP. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [Kint](https://github.com/mildlygeeky/craft_kint) An in-app PHP debugger for use in Twig and PHP.
+- [Kint](https://github.com/mildlygeeky/craft_kint) In-app PHP debugger for use in Twig and PHP.
 - [Inspector](https://github.com/amacneil/craft-inspector) Adds a helpful `inspect` method to your templates - figure out what kind of variables you are dealing with, and what methods they implement.
 - [Query Log](https://github.com/rsanchez/craft-query-log) Show a log of database queries in your front-end templates.
 - [Bugsnag](https://superbig.co/plugins/bugsnag) Log Craft errors/exceptions to Bugsnag.
@@ -244,7 +244,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ##### Fields
 - [Field Manager](https://github.com/engram-design/FieldManager) Makes it easy to manage fields and field groups.
 - [Inventory](https://github.com/lindseydiloreto/craft-inventory) Take stock of how your fields are being used.
-- [Cheat Sheet](https://github.com/focuslabllc/craft-cheat-sheet) A fast and customized set of instantly usable Field code samples.
+- [Cheat Sheet](https://github.com/focuslabllc/craft-cheat-sheet) Fast and customized set of instantly usable Field code samples.
 
 ##### Maintenance
 - [Patrol](https://github.com/selvinortiz/craft.patrol) Simplifies SSL and maintenance routing.
@@ -274,7 +274,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Misc
 - [Craft Help](https://github.com/70kft/craft-help) Allows developers to provide CMS documentation to their clients directly inside the control panel.
 - [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual) Allows developers or content editors to provide CMS documentation using sections to create a "User Manual" or "Help" section in the control panel.
-- [Cookies](https://github.com/nystudio107/cookies) A simple plugin for setting and getting secure cookies from within templates.
+- [Cookies](https://github.com/nystudio107/cookies) Simple plugin for setting and getting secure cookies from within templates.
 - [LJ Cookies](https://github.com/lewisjenkins/craft-lj-cookies) Simple plugin for setting and retrieving cookies from within templates.
 - [AdWizard](https://www.doublesecretagency.com/plugins/ad-wizard) Easily manage custom advertisements on your website!
 - [Printmaker](https://craftpl.us/plugins/printmaker) Template-based HTML-to-PDF engine: Save or output a PDF from any template, URL, or string.
@@ -301,7 +301,7 @@ Updated list of Craft 3 plugins (currently in beta) [can be found here.](https:/
 - [craft-cli](https://github.com/rsanchez/craft-cli) Command line interface for Craft CMS.
 - [craft-scripts](https://github.com/nystudio107/craft-scripts) Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments.
 - [craft-multi-environment](https://github.com/nystudio107/craft-multi-environment) Efficient and flexible multi-environment config.
-- [nginx-craft](https://github.com/nystudio107/nginx-craft) An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
+- [nginx-craft](https://github.com/nystudio107/nginx-craft) Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 - [craftman](https://github.com/gabrielmoreira/craftman) To help speed set up and start a new Craft CMS installation smoothly.
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) Yeoman generator for Craft CMS installs.
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more.
