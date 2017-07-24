@@ -42,7 +42,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Misc](#misc)
   - [Commerce](#commerce)
 - [Development Tools/Resources](#development-toolsresources)
-- [Third Party Resources](#third-party-resources)
+- [Community](#community)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -307,8 +307,11 @@ Updated list of Craft 3 plugins (currently in beta) [can be found here.](https:/
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - Boilerplate dev environment for jump-starting projects with Vagrant configured, Gulp configured, and more.
 
 
-## Third Party Resources
+## Community
+- [Craft Slack](https://craftcms.com/community#slack) - Nearing 5,000 users, join the Slack group dedicated to Craft CMS discussion.
 - [Craft CMS StackExchange](https://craftcms.stackexchange.com/) - Q&A for administrators, end users, developers and designers.
+- [`@CraftCMS` on Twitter](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is `#craftcms`.
+- [Official Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
 - [Straight Up Craft](http://straightupcraft.com/) - Tutorials, plugin directory, event listings & more.
 - [Work With Craft](https://www.workwithcraft.com/) - Dedicated job board aimed to connect employers with Craft professionals.
 - [CraftX](https://craftx.io/) - Open source site built on Craft 3, and community of web professionals hosting hangouts.
