@@ -187,6 +187,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Imgix](https://superbig.co/plugins/imgix) - Use Imgix.
 - [Embedly](https://superbig.co/plugins/embedly) - Use Embed.ly to fetch information and embed content from 250+ services.
 - [Drift](https://superbig.co/plugins/drift) - Integrate Drift.com. Helps your team generate more leads and book meetings faster using messaging.
+- [Splashing Images](https://github.com/studioespresso/craft-unsplash) - Brings amazing photos to your fingertips with Unsplash integration.
 
 #### Social
 - [Social Login](https://dukt.net/social) - Let your visitors log in & register with web services like Facebook, Google, Twitter.
