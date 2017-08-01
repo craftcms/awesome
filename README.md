@@ -60,6 +60,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Getting Started with CraftCMS](https://www.jonathankelley.design/blog/getting-started-with-craftcms) by Jonathan Kelley
 - [Building Complex Queries by Extending the ElementCriteriaModel](https://blog.tighten.co/craft-cms-building-complex-queries-by-extending-the-elementcriteriamodel) by Tighten Co
 #### Articles by Andrew Welch @ [nystudio107](https://nystudio107.com/blog)
+- [Static Page Caching with Craft CMS](https://nystudio107.com/blog/static-caching-with-craft-cms)
 - [The Case of the Missing PHP Session](https://nystudio107.com/blog/the-case-of-the-missing-php-session)
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms)
 - [Simple Static Asset Versioning in Craft CMS](https://nystudio107.com/blog/simple-static-asset-versioning)
