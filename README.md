@@ -259,6 +259,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments.
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
 - [User Creator](https://superbig.co/plugins/user-creator) - Allow you to generate users en masse, simply.
+- [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features.
  
  
 ### Security
