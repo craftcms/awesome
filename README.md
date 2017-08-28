@@ -48,6 +48,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 ### Technical
+- [Editing a Front End Form with Matrix](https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/) by Sean Smith/Caffeine Creations
 - [How I Automate My Local Development Craft CMS 2.x Installs](https://medium.com/@timknight/how-i-automate-my-craft-cms-2-x-installs-8427f70914e4) by Tim Knight
 - [9 Tips For Speeding Up Your Imager Transforms](https://www.vaersaagod.no/en/9-tips-for-speeding-up-your-imager-transforms-in-craftcms) by André Elvan/Vaersaagod
 - [DRY Templating with Twig and Craft CMS](https://medium.com/base-voices/dry-templating-with-twig-and-craft-cms-543292d114aa) by Pierre Stoffe/Base Digital
