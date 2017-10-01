@@ -48,10 +48,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Articles
 ### Technical
+- [Multi-attribute variant selection in Craft Commerce](https://www.vaersaagod.no/en/multi-attribute-variant-selection-in-craft-commerce) by André Elvan/Værsågod
+- [Support for Imgix in Imager for Craft](https://www.vaersaagod.no/en/support-for-imgix-in-imager-for-craftcms) by André Elvan/Værsågod
 - [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell
 - [Editing a Front End Form with Matrix](https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/) by Sean Smith/Caffeine Creations
 - [How I Automate My Local Development Craft CMS 2.x Installs](https://medium.com/@timknight/how-i-automate-my-craft-cms-2-x-installs-8427f70914e4) by Tim Knight
-- [9 Tips For Speeding Up Your Imager Transforms](https://www.vaersaagod.no/en/9-tips-for-speeding-up-your-imager-transforms-in-craftcms) by André Elvan/Vaersaagod
+- [9 Tips For Speeding Up Your Imager Transforms](https://www.vaersaagod.no/en/9-tips-for-speeding-up-your-imager-transforms-in-craftcms) by André Elvan/Værsågod
 - [DRY Templating with Twig and Craft CMS](https://medium.com/base-voices/dry-templating-with-twig-and-craft-cms-543292d114aa) by Pierre Stoffe/Base Digital
 - [Quick Tips: Craft CMS](http://gregorterrill.com/blog/2017/quick-tips-craft-cms) by Gregor Terrill
 - [Deploying CraftCMS to Digital Ocean](https://www.jonathankelley.design/blog/deploying-craftcms-to-digital-ocean) by Jonathan Kelley
@@ -124,6 +126,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Randomm](https://superbig.co/plugins/randomm) - Allows you to create random things via chance.js .
 - [Button Box](https://github.com/supercool/buttonbox) - Collection of utility field types (Buttons, Colors, Text Size, Stars, Width, and Triggers).
 - [Store Hours](https://github.com/craftcms/store-hours) - Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
+- [Preparse Field](https://github.com/aelvan/Preparse-Field-Craft) - Field type that parses twig when the element is saved. Can be used for all kinds of optimizations.
 
 
 ### Control Panel
@@ -170,6 +173,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Ansel](https://buzzingpixel.com/software/ansel-craft) - Define image fields with minimum and/or maximum requirements, aspect ratios, minimum/maximum number of images, and more.
 - [TinyImage](https://craftpl.us/plugins/tiny-image) - Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
 - [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) - Pretransform any Assets on save, with Imager.
+- [Focal Point Field](https://github.com/aelvan/FocalPointField-Craft) - Choose focal point for your assets.
 
 
 ### Navigation
@@ -191,6 +195,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Embedly](https://superbig.co/plugins/embedly) - Use Embed.ly to fetch information and embed content from 250+ services.
 - [Drift](https://superbig.co/plugins/drift) - Integrate Drift.com. Helps your team generate more leads and book meetings faster using messaging.
 - [Splashing Images](https://github.com/studioespresso/craft-unsplash) - Brings amazing photos to your fingertips with Unsplash integration.
+- [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists.
 
 #### Social
 - [Social Login](https://dukt.net/social) - Let your visitors log in & register with web services like Facebook, Google, Twitter.
@@ -212,6 +217,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Fetch](https://github.com/netliferesearch/craft-fetch) - Relays PHP's `file_get_contents()` to return contents in raw format. Useful for embedding external svg code inline.
 - [Filter Environment Variables](https://github.com/lindseydiloreto/craft-filterenvvar) - Replace environment variable strings in your Twig variables.
 - [PathTools](https://github.com/nystudio107/pathtools) - Brings convenient path & url manipulation functions & filters to your Twig templates.
+- [Similar](https://github.com/aelvan/Similar-Craft) - Queries similar elements based on elements they are related to.
 
 ### Social
 - [Comments](https://github.com/engram-design/Comments) - Allows your Craft users to comment on elements. Manage comments within CMS.
@@ -230,6 +236,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [No-Cache](https://github.com/benjamminf/craft-nocache) - Extension to escape caching inside cache blocks.
 - [Cloudfront Invalidation](https://superbig.co/plugins/cloudfront-invalidation) - Invalidate your cached assets on CloudFront.
 - [CacheFlag](https://github.com/mmikkel/CacheFlag-Craft) - Provides an alternative way to have your caches clear automatically when your content changes.
+- [Varnish Purge](https://github.com/aelvan/VarnishPurge-Craft) - Granular purging of Varnish cached content.
 
 
 ### Development
@@ -237,6 +244,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Minify](https://github.com/nystudio107/minify) - Minify blocks of HTML, CSS, and JS inline.
 - [Minimee](https://github.com/johndwells/craft.minimee) - Minimize, combine & cache your CSS and JS files.
 - [Asset Rev](https://github.com/clubstudioltd/craft-asset-rev) - Cache-bust your assets by appending query string or swapping out asset file names with their revved version.
+- [Inlin](https://github.com/aelvan/Inlin-Craft) - Inline files in your Twig templates. Similar to Twig's `source()` function, but works with files outside your template path, and even external ones. 
+- [Stamp](https://github.com/aelvan/Stamp-Craft) - Add timestamps to your assets in a variety of ways; as a query string, part of the filename, og as a path segment.  
 
 ##### Debugging
 - [Query](https://github.com/craftcms/query/tree/v1) - Enables admins to run SQL queries from the CP. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
