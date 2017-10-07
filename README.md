@@ -263,6 +263,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Maintenance
 - [404 Finder](https://craftpl.us/plugins/404-finder) - Keeps a running tally of pages users are currently trying to access but can't.
+- [GTmetrix](https://github.com/lukeyouell/craft-GTmetrix) - Gives insight on how well your entries load and provides recommendations to optimize.
 - [Maintenance](https://github.com/carlcs/craft-maintenance) - Provides tools to help you do maintenance on your website.
 - [Patrol](https://github.com/selvinortiz/craft.patrol) - Simplifies SSL and maintenance routing.
 
