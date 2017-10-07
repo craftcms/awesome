@@ -196,6 +196,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Drift](https://superbig.co/plugins/drift) - Integrate Drift.com. Helps your team generate more leads and book meetings faster using messaging.
 - [Splashing Images](https://github.com/studioespresso/craft-unsplash) - Brings amazing photos to your fingertips with Unsplash integration.
 - [MailChimp Subscribe](https://github.com/aelvan/mailchimp-subscribe-craft) - Simple Craft plugin for subscribing to MailChimp lists.
+- [Splash](https://github.com/ethercreative/splash) - Quickly and easily get beautiful Unsplash images in Craft.
 
 #### Social
 - [Social Login](https://dukt.net/social) - Let your visitors log in & register with web services like Facebook, Google, Twitter.
