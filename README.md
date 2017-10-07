@@ -73,6 +73,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Lazy Loading with the Element API & VueJS](https://nystudio107.com/blog/lazy-loading-with-the-element-api-vuejs)
 - [Multi-Environment Config for Craft CMS](https://nystudio107.com/blog/multi-environment-config-for-craft-cms)
 - [Simple Static Asset Versioning in Craft CMS](https://nystudio107.com/blog/simple-static-asset-versioning)
+- [Speed up your Craft CMS Templates with Eager Loading](https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading)
 - [Static Page Caching with Craft CMS](https://nystudio107.com/blog/static-caching-with-craft-cms)
 - [The Case of the Missing PHP Session](https://nystudio107.com/blog/the-case-of-the-missing-php-session)
 - [The Craft {% cache %} Tag In-Depth](https://nystudio107.com/blog/the-craft-cache-tag-in-depth)
