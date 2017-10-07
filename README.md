@@ -270,6 +270,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [a&m command](https://github.com/am-impact/amcommand) - Command palette for the control panel.
 - [Environment Label](https://github.com/madebykind/craft.labelenvironment) - Nice coloured labels in the CP to help distinguish your environments.
 - [Faker](https://superbig.co/plugins/faker) - Output random fake data in your templates.
+- [Migration Manager](https://github.com/Firstborn/Craft-CMS-Migration-Manager) - Create migrations to easily move settings and content between site installations
 - [User Creator](https://superbig.co/plugins/user-creator) - Allow you to generate users en masse, simply.
 - [CraftQL](https://github.com/markhuot/craftql) - A drop-in GraphQL server allowing access to all features.
  
