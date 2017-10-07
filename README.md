@@ -81,7 +81,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Why Craft? (Praises)
 - [10 Reasons Why We Love Craft CMS](http://taechogroup.com/blog/10-reasons-why-we-love-craft-cms) by Taecho Group
-- [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce?utm_content=bufferac97d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by New Media Campaigns
+- [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) by New Media Campaigns
 - [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) by Harry Keller/diesdas.digital
 - [An Overview of Pixel & Tonic’s Craft CMS.](https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0) by Matthew Soyka
 - [Crazy About Craft](http://www.newmediacampaigns.com/blog/review-of-craft-cms-tips-to-get-started) by New Media Campaigns
