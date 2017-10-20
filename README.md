@@ -71,6 +71,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Creating a Content Builder in Craft CMS](https://nystudio107.com/blog/creating-a-content-builder-in-craft-cms)
 - [Database & Asset Syncing Between Environments in Craft CMS](https://nystudio107.com/blog/database-asset-syncing-between-environments-in-craft-cms)
 - [Google AMP: Should You Care?](https://nystudio107.com/blog/google-amp-should-you-care)
+- [Handling Errors Gracefully in Craft CMS](https://nystudio107.com/blog/handling-errors-gracefully-in-craft-cms)
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions)
 - [Lazy Loading with the Element API & VueJS](https://nystudio107.com/blog/lazy-loading-with-the-element-api-vuejs)
 - [Multi-Environment Config for Craft CMS](https://nystudio107.com/blog/multi-environment-config-for-craft-cms)
