@@ -50,6 +50,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Technical
 - [9 Tips For Speeding Up Your Imager Transforms](https://www.vaersaagod.no/en/9-tips-for-speeding-up-your-imager-transforms-in-craftcms) by André Elvan/Værsågod
 - [Building Complex Queries by Extending the ElementCriteriaModel](https://blog.tighten.co/craft-cms-building-complex-queries-by-extending-the-elementcriteriamodel) by Tighten Co
+- [Craft CMS AJAX Page Transitions with history.pushState](https://designbycosmic.com/articles/development/craft-cms-ajax-page-transitions-with-history-pushstate) by Cosmic
+- [Craft CMS Content Builder: The Client Experience](https://designbycosmic.com/articles/development/craft-cms-content-builder-the-client-experience) by Cosmic
 - [DRY Templating with Twig and Craft CMS](https://medium.com/base-voices/dry-templating-with-twig-and-craft-cms-543292d114aa) by Pierre Stoffe/Base Digital
 - [Deploying CraftCMS to Digital Ocean](https://www.jonathankelley.design/blog/deploying-craftcms-to-digital-ocean) by Jonathan Kelley
 - [Editing a Front End Form with Matrix](https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/) by Sean Smith/Caffeine Creations
@@ -90,6 +92,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Why Content Writers Love Craft CMS](https://caffeinecreations.ca/why-content-writers-love-craft-cms/) by Caffeine Creations
 - [Why Craft CMS is the best content management system we (and you) have ever used](https://www.ten4design.co.uk/insight/why-craft-cms-is-the-best-content-management-system) by Ten4 Design
 - [Why We Love Craft CMS](https://www.viget.com/articles/why-we-love-craft-cms) by Trevor Davis/Viget
+- [Why We Use Craft CMS](https://designbycosmic.com/articles/development/why-we-use-craft-cms) by Cosmic
 - [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) by Welford Media
 - [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) by WeAreAbstrakt
 - [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) by Sam Goddard/Kind
