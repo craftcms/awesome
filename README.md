@@ -129,7 +129,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [SmartMap](https://www.doublesecretagency.com/plugins/smart-map) - Easily manage geographic points, calculate latitude & longitude, display locations on map, and more.
 - [Sprout Fields](https://sprout.barrelstrengthdesign.com/craft-plugins/fields) - Email Addresses, Links, and Phone Numbers, Hidden and Invisible values, Notes, and more.
 - [Store Hours](https://github.com/craftcms/store-hours) - Adds a new “Store Hours” field type to Craft, for collecting the opening and closing hours of a business for each day of the week. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [SuperTable](https://github.com/engram-design/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix.
+- [SuperTable](https://github.com/verbb/SuperTable) - Create powerful tables utilising native Craft field types, including Assets, Users, Entries and even Matrix.
 - [Template Select](https://superbig.co/plugins/template-select) - Lets you select templates from your entry.
 - [VZ Address](https://github.com/elivz/VzAddress-Craft) - Simple address field.
 
@@ -137,12 +137,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Control Panel
 - [amcommand](https://github.com/am-impact/amcommand) - Command palette in Craft.
 - [CPCSS](https://github.com/lindseydiloreto/craft-cpcss) - Easily overwrite the default Control Panel styles that ship with Craft.
-- [CPNav](https://github.com/engram-design/CPNav) - Manage your Control Panel navigation.
+- [CPNav](https://github.com/verbb/CPNav) - Manage your Control Panel navigation.
 - [Content Stats](https://github.com/wbrowar/contentstats) - Dashboard widget to see how many entries have been created for channels and structures.
-- [Expanded Singles](https://github.com/engram-design/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link.
+- [Expanded Singles](https://github.com/verbb/ExpandedSingles) - Alters the Entries Index sidebar to list all Singles, rather than grouping them under a 'Singles' link.
 - [Matrix Colors](https://github.com/lindseydiloreto/craft-matrixcolors) - Easily identify your matrix blocks, by assigning a different color for each block type.
 - [Sprout Notes](https://sprout.barrelstrengthdesign.com/craft-plugins/notes) - Add notes to your dashboard. Customize your note's header, body, and even use custom HTML.
-- [Workflow](https://github.com/engram-design/Workflow) - Plugin to create a workflow for publishing entries.
+- [Workflow](https://github.com/verbb/Workflow) - Plugin to create a workflow for publishing entries.
 
 
 ### Data
@@ -150,7 +150,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Beam](https://superbig.co/plugins/beam) - Generate CSV and XLS files in your templates.
 - [Craft Dump](https://github.com/putyourlightson/craft-dump) - Simple way to create DB backups.
 - [Element API](https://github.com/craftcms/element-api) - Create a JSON API/Feed for your elements. ![P&T](https://cdn.rawgit.com/chasegiunta/awesome-craft/master/pt.png)
-- [FeedMe](https://github.com/engram-design/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates.
+- [FeedMe](https://github.com/verbb/FeedMe) - Import entries and entry data from XML, RSS or ATOM feeds, setup as a task, or called on-demand in twig templates.
 - [Import](https://github.com/boboldehampsink/import/tree/master) - Import data from CSV files.
 - [Out](https://github.com/ethercreative/out) - Super-simple plugin for creating CSV exports of you entry data.
 - [Reports](https://superbig.co/plugins/reports) - Write reports with Twig.
@@ -175,7 +175,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [donkeytail](https://github.com/simplygoodwork/donkeytail-plugin) - Quickly and easily content manage points on images, locations on a faux map, or showcasing multiple products within an image.
 - [Focal Point Field](https://github.com/aelvan/FocalPointField-Craft) - Choose focal point for your assets.
 - [FocusPoint](https://github.com/smcyr/Craft-FocusPoint) - Choose coordinates on an image for the focus point on responsive images.
-- [ImageResizer](https://github.com/engram-design/ImageResizer) - Resize images on upload.
+- [ImageResizer](https://github.com/verbb/ImageResizer) - Resize images on upload.
 - [Imager Pretransform](https://superbig.co/plugins/imager-pretransform) - Pretransform any Assets on save, with Imager.
 - [Imager](https://github.com/aelvan/Imager-Craft) - Image transforms gone wild.
 - [TinyImage](https://craftpl.us/plugins/tiny-image) - Provide a clean and easy to use interface for clients to compress their images using the TinyPNG API.
@@ -226,8 +226,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Sprout Active](https://sprout.barrelstrengthdesign.com/craft-plugins/active) - Easily manage active states and conditional content based on your selected URL segments.
 
 ### Social
-- [Comments](https://github.com/engram-design/Comments) - Allows your Craft users to comment on elements. Manage comments within CMS.
-- [Social Poster](https://github.com/engram-design/SocialPoster) - Automatically post entries to social media.
+- [Comments](https://github.com/verbb/Comments) - Allows your Craft users to comment on elements. Manage comments within CMS.
+- [Social Poster](https://github.com/verbb/SocialPoster) - Automatically post entries to social media.
 - [UpVote](https://www.doublesecretagency.com/plugins/upvote) - Gives you the ability to upvote,any element type can be rated.
 - [Sprout Lists](https://sprout.barrelstrengthdesign.com/craft-plugins/lists) - Allow users to subscribe to,downvote,follow,or "Like" on any element.
 - [Star Ratings](https://www.doublesecretagency.com/plugins/star-ratings) - Elegant ratings system. Secure and easily configurable,or like any Element. Display counts and related content.
@@ -262,7 +262,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Fields
 - [Cheat Sheet](https://github.com/focuslabllc/craft-cheat-sheet) - Fast and customized set of instantly usable Field code samples.
-- [Field Manager](https://github.com/engram-design/FieldManager) - Makes it easy to manage fields and field groups.
+- [Field Manager](https://github.com/verbb/FieldManager) - Makes it easy to manage fields and field groups.
 - [Inventory](https://github.com/lindseydiloreto/craft-inventory) - Take stock of how your fields are being used.
 
 ##### Maintenance
