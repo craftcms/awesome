@@ -94,6 +94,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Why Craft CMS is the best content management system we (and you) have ever used](https://www.ten4design.co.uk/insight/why-craft-cms-is-the-best-content-management-system) by Ten4 Design
 - [Why We Love Craft CMS](https://www.viget.com/articles/why-we-love-craft-cms) by Trevor Davis/Viget
 - [Why We Use Craft CMS](https://designbycosmic.com/articles/development/why-we-use-craft-cms) by Cosmic
+- [Why We Use Craft CMS](https://builtbymasonry.com/journal/why-we-use-craft-cms) by Masonry
 - [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) by Welford Media
 - [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) by WeAreAbstrakt
 - [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) by Sam Goddard/Kind
