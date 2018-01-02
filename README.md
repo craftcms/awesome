@@ -316,7 +316,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 _(Forthcoming)_
 
 ----
-Updated list of Craft 3 plugins (currently in beta) [can be found here.](https://github.com/craftcms/plugins)
+Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://plugins.craftcms.com).
 
 ----
 
