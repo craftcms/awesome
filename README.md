@@ -62,6 +62,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Multi-attribute variant selection in Craft Commerce](https://www.vaersaagod.no/en/multi-attribute-variant-selection-in-craft-commerce) by André Elvan/Værsågod
 - [Quick Tips: Craft CMS](http://gregorterrill.com/blog/2017/quick-tips-craft-cms) by Gregor Terrill
 - [Responsive Images with srcset & Craft](https://www.viget.com/articles/responsive-images-with-srcset-craft) by Trevor Davis/Viget
+- [Running Craft CMS 3 on Laravel Valet](https://medium.com/@jalendport/running-craft-cms-3-on-laravel-valet-6df61e5193fd) by Jalen Davenport
 - [Support for Imgix in Imager for Craft](https://www.vaersaagod.no/en/support-for-imgix-in-imager-for-craftcms) by André Elvan/Værsågod
 - [The Living Component Library](https://clearleft.com/posts/443) by Graham Smith/Clearleft
 - [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell
