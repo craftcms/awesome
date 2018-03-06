@@ -66,6 +66,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Support for Imgix in Imager for Craft](https://www.vaersaagod.no/en/support-for-imgix-in-imager-for-craftcms) by André Elvan/Værsågod
 - [The Living Component Library](https://clearleft.com/posts/443) by Graham Smith/Clearleft
 - [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell
+- [Using Content Migrations in Craft 3](https://adigital.agency/blog/using-content-migrations-in-craft-3) by Matt Shearing/A Digital
 #### Articles by Andrew Welch @ [nystudio107](https://nystudio107.com/blog)
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms)
 - [Creating Optimized Images in Craft CMS](https://nystudio107.com/blog/creating-optimized-images-in-craft-cms)
