@@ -246,7 +246,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Cloudfront Invalidation](https://superbig.co/plugins/cloudfront-invalidation) - Invalidate your cached assets on CloudFront.
 - [HTML Cache](https://github.com/craftapi/htmlcache) - Generate static HTML files for your website. No need for Reddis/Varnish setups anymore.
 - [No-Cache](https://github.com/benjamminf/craft-nocache) - Extension to escape caching inside cache blocks.
-- [Presto](https://github.com/caddis/craft-presto) - Static file extension for the native Craft cache.
+- [Presto](https://github.com/lewiscommunications/craft-presto) - Static file extension for the native Craft cache.
 - [Upper](https://github.com/ostark/upper) - Speeds up Craft dramatically using a Cache Proxy in front of your webserver.
 - [Varnish Purge](https://github.com/aelvan/VarnishPurge-Craft) - Granular purging of Varnish cached content.
 
