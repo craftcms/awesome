@@ -67,6 +67,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [The Living Component Library](https://clearleft.com/posts/443) by Graham Smith/Clearleft
 - [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell
 - [Using Content Migrations in Craft 3](https://adigital.agency/blog/using-content-migrations-in-craft-3) by Matt Shearing/A Digital
+- [Zero downtime Craft CMS 3 deployments with Buddy.works](https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works) by Rias
 #### Articles by Andrew Welch @ [nystudio107](https://nystudio107.com/blog)
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms)
 - [Creating Optimized Images in Craft CMS](https://nystudio107.com/blog/creating-optimized-images-in-craft-cms)
@@ -246,7 +247,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Cloudfront Invalidation](https://superbig.co/plugins/cloudfront-invalidation) - Invalidate your cached assets on CloudFront.
 - [HTML Cache](https://github.com/craftapi/htmlcache) - Generate static HTML files for your website. No need for Reddis/Varnish setups anymore.
 - [No-Cache](https://github.com/benjamminf/craft-nocache) - Extension to escape caching inside cache blocks.
-- [Presto](https://github.com/caddis/craft-presto) - Static file extension for the native Craft cache.
+- [Presto](https://github.com/lewiscommunications/craft-presto) - Static file extension for the native Craft cache.
 - [Upper](https://github.com/ostark/upper) - Speeds up Craft dramatically using a Cache Proxy in front of your webserver.
 - [Varnish Purge](https://github.com/aelvan/VarnishPurge-Craft) - Granular purging of Varnish cached content.
 
@@ -333,7 +334,8 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [generator-craftinstall](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
 - [nginx-craft](https://github.com/nystudio107/nginx-craft) - Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 - [pluginfactory.io](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards, creating the bits you need to get your plugins started.
-- [Happy Lager Demo Site (Craft 3/Neutrino version)](https://github.com/timkelty/HappyLager/tree/neutrino) Updated for Craft 3 and using [Neutrino](https://neutrino.js.org/) for build tooling (replacing Grunt).
+- [Happy Lager Demo Site (Craft 3/Neutrino version)](https://github.com/timkelty/HappyLager/tree/neutrino) - Updated for Craft 3 and using [Neutrino](https://neutrino.js.org/) for build tooling (replacing Grunt).
+- [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
 - [craftcms3-docker](https://github.com/atillay/craftcms3-docker) - A way to start using Craft 3 without having to set up a dev environment thanks to Docker
 
 ## Community
