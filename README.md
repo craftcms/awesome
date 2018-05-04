@@ -31,11 +31,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Official Case Studies](#official-case-studies)
   - [Organizations Using Craft](#organizations-using-craft)
   - [Agencies Using Craft](#agencies-using-craft)
-- [Partners](#partners)
-  - [Development](#development)
-  - [Hosting](#hosting)
-  - [Training](#training)
-  - [Integration](#integration)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -348,37 +343,3 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [McCann](https://www.mccann.com)
 - [Ogilvy](https://ogilvy.co.uk)
 - [TBWA](http://tbwa.com)
-
----
-
-## Partners
-
-### Development
-- [A Digital](https://adigital.agency/)
-- [Barrel Strength Design](https://barrelstrengthdesign.com/)
-- [Bright Umbrella](https://abrightumbrella.com/craft-cms)
-- [Cosmic](https://designbycosmic.com/)
-- [Digital Surgeons](https://www.digitalsurgeons.com/what/craft-cms)
-- [Electric Putty](http://electricputty.co.uk/)
-- [Foster Commerce](http://fostercommerce.com/)
-- [Foster Made](https://fostermade.co/services/mobile-and-web-development/craft-cms)
-- [One Design](https://onedesigncompany.com/craft-cms)
-- [Moby](http://mobyinc.com/craft-commerce)
-- [S. Group](https://sgroup.com.au/craft)
-- [Solspace](https://solspace.com/services/craftcms-development)
-- [The Refinery](https://the-refinery.io/services)
-- [Top Shelf Craft](https://topshelfcraft.com/)
-- [Vector Media Group](https://www.vectormediagroup.com/development/craft-cms-development)
-- [Yours Truly](https://yourstruly.de/agentur/technology/craft)
-- [Zaengle](https://zaengle.com/craft-commerce)
-
-### Hosting
-- [Fortrabbit](https://www.fortrabbit.com/craft-hosting)
-- [Arcustech](https://www.arcustech.com/managed/craftcms-hosting/)
-
-### Training
-- [Mijingo](https://mijingo.com/craft)
-
-### Integration
-- [GatherContent](https://gathercontent.com/cms-integrations/craftcms)
-- [Acclaro](http://www.acclaro.com/solutions/craft-translation-connector/)
