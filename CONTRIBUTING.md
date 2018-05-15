@@ -8,8 +8,8 @@ In order to contribute to this repository you need to **fork** it, then you can 
 
 ---
 
-### Plugins & Development Tools
-To be added to the list, plugins & dev tools should meet the following criteria:
+### Development Tools
+To be added to the list, dev tools should meet the following criteria:
 
 - Actively Maintained
 - Supports the latest version of Craft CMS
