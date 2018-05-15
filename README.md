@@ -251,6 +251,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Critical Updates and Craft CMS](https://www.youtube.com/watch?v=Fl1DZVHTFio) by Ben Parizek/Straight Up Craft - `2 Sep 2016`
 - [Hashing Redirects in Craft](https://mijingo.com/lessons/hashing-redirect-parameter-in-craft/) by Ryan Irelan/Mijingo
 - [Security and Craft CMS](https://www.youtube.com/watch?v=EsI5FgF3BAI&t=5s) by Ben Parizek/Straight Up Craft - `22 Apr 2016`
+- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
 
 ##### Templating
 - [Changing Section Labels in Craft](https://mijingo.com/lessons/changing-section-labels-in-craft/) by Ryan Irelan/Mijingo
