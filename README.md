@@ -160,6 +160,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [The Ultimate Craft CMS vs WordPress Guide](https://gomasuga.com/info/content-management-systems-craft-cms-vs-wordpress) by Ryan Masuga
 
 ##### Security
+- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) by Andrew Welch/nystudio107 - `19 Mar 2017`
 - [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) by Ryan Irelan/Mijingo
 - [The Case of the Missing PHP Session](https://nystudio107.com/blog/the-case-of-the-missing-php-session) by Andrew Welch/nystudio107 - `3 Oct 2017`
@@ -251,7 +252,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Critical Updates and Craft CMS](https://www.youtube.com/watch?v=Fl1DZVHTFio) by Ben Parizek/Straight Up Craft - `2 Sep 2016`
 - [Hashing Redirects in Craft](https://mijingo.com/lessons/hashing-redirect-parameter-in-craft/) by Ryan Irelan/Mijingo
 - [Security and Craft CMS](https://www.youtube.com/watch?v=EsI5FgF3BAI&t=5s) by Ben Parizek/Straight Up Craft - `22 Apr 2016`
-- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
 
 ##### Templating
 - [Changing Section Labels in Craft](https://mijingo.com/lessons/changing-section-labels-in-craft/) by Ryan Irelan/Mijingo
