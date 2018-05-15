@@ -382,4 +382,4 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [McCann](https://www.mccann.com)
 - [Ogilvy](https://ogilvy.co.uk)
 - [TBWA](http://tbwa.com)
-- [lg2](https://lg2.com/en/)
+- [Lg2](https://lg2.com/en/)
