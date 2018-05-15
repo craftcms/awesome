@@ -24,6 +24,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
   - [Core Technologies](#core-technologies)
   - [Articles](#articles)
   - [Videos](#videos)
+  - [Presentations](#presentations)
   - [Praises](#praises)
   - [Podcasts](#podcasts)
   - [Dev Tools](#dev-tools)
