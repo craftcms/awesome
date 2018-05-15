@@ -368,6 +368,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Sonos](https://www.sonos.com)
 - [Stanford Research Park](http://www.stanfordresearchpark.com)
 - [Stearns & Foster](http://www.stearnsandfoster.com)
+- [Wildbit](https://wildbit.com)
 - [Yale Environment 360](http://e360.yale.edu)
 
 ### Agencies Using Craft
