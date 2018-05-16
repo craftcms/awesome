@@ -378,6 +378,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Deloitte](https://www2.deloitte.com/us/en.html)
 - [IDEO](https://www.ideo.com/eu)
 - [J. Walter Thomson](https://www.jwt.com/en)
+- [Lg2](https://lg2.com/en/)
 - [Leo Burnett](https://www.leoburnett.co.uk)
 - [McCann](https://www.mccann.com)
 - [Ogilvy](https://ogilvy.co.uk)
