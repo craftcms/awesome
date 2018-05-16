@@ -374,6 +374,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Agencies Using Craft
 
+- [Bakken & Bæck](https://bakkenbaeck.com/)
 - [BBDO](https://bbdo.com)
 - [Deloitte](https://www2.deloitte.com/us/en.html)
 - [IDEO](https://www.ideo.com/eu)
