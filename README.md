@@ -377,6 +377,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Bakken & Bæck](https://bakkenbaeck.com/)
 - [BBDO](https://bbdo.com)
 - [Deloitte](https://www2.deloitte.com/us/en.html)
+- [Good Work](https://www.simplygoodwork.com/)
 - [IDEO](https://www.ideo.com/eu)
 - [J. Walter Thomson](https://www.jwt.com/en)
 - [Lg2](https://lg2.com/en/)
