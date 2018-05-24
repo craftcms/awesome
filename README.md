@@ -158,6 +158,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ##### Publications
 - [The Guide to Craft CMS Development](https://gomasuga.com/course/craft-cms-guide) by Ryan Masuga
 - [The Ultimate Craft CMS vs WordPress Guide](https://gomasuga.com/info/content-management-systems-craft-cms-vs-wordpress) by Ryan Masuga
+- [Introduction to Craft CMS](https://github.com/jeromecoupe/iad_craftcms_introduction) by Jérôme Coupé/Webstoemp (on Github)
 
 ##### Security
 - [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
@@ -182,6 +183,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Using Macros in Twig and Craft](https://mijingo.com/blog/using-macros-in-twig-and-craft) by Ryan Irelan/Mijingo
 - [Using Variables in Twig and Craft CMS](https://mijingo.com/blog/using-variables-in-twig-and-craft-cms) by Ryan Irelan/Mijingo
 - [Where am I in the Twig Loop?](https://mijingo.com/blog/where-am-i-in-the-twig-loop) by Ryan Irelan/Mijingo
+- [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) by Jérôme Coupé/Webstoemp - `15 Jul 2015`
+- [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Feb 2016`
 
 ### Videos
 
@@ -303,6 +306,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) by Welford Media - `14 Oct 2016`
 - [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) by Abstrakt - `25 Apr 2017`
 - [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) by Sam Goddard/Kind - `21 Mar 2017`
+- [Why Craft?](https://www.webstoemp.com/blog/why-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Jun 2015`
 
 ### Podcasts
 
