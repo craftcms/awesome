@@ -52,6 +52,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Craft Cookbook](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
 - [Craft Link List](http://craftlinklist.com/) - Curated publication collecting interesting links.
+- [CraftQuest](https://craftquest.io/) - Unlimited access to Craft training (and more).
 - [CraftX](https://craftx.io/) - Open source site built on Craft 3, and community of web professionals hosting hangouts.
 - [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 - [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
