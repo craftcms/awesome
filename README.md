@@ -391,3 +391,4 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [McCann](https://www.mccann.com)
 - [Ogilvy](https://ogilvy.co.uk)
 - [TBWA](http://tbwa.com)
+- [Vangen & Plotz](https://vangenplotz.no)
