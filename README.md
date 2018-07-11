@@ -375,6 +375,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [ProPublica](https://www.propublica.org)
 - [SalesforceIQ](https://www.salesforceiq.com)
 - [Sonos](https://www.sonos.com)
+- [Stance](https://stance.com/)
 - [Stanford Research Park](http://www.stanfordresearchpark.com)
 - [Stearns & Foster](http://www.stearnsandfoster.com)
 - [Wildbit](https://wildbit.com)
