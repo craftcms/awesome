@@ -146,6 +146,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Performance and Testing
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms) by Andrew Welch/nystudio107 - `29 Nov 2017`
+- [Debug Tool in Craft 3: Here’s all you need to know about it](https://medium.com/@galaxyweblinks/debug-tool-in-craft-3-heres-all-you-need-to-know-about-it-be8a3395ebbd) by Galaxy Weblinks - `2 July 2018`
 - [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by Jason Mayo/Shape - `2 Apr 2017`
 - [Profiling your Website with Craft CMS 3’s Debug Toolbar](https://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar) by Andrew Welch/nystudio107 - `9 Apr 2018`
 - [Speed up your Craft CMS Templates with Eager Loading](https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading) by Andrew Welch/nystudio107 - `21 Dec 2017`
