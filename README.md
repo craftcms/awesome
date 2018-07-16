@@ -191,6 +191,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) by Jérôme Coupé/Webstoemp - `15 Jul 2015`
 - [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Feb 2016`
 - [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) by Sean Smith/Caffeine Creations - `29 June 2018`
+- [Responsive tables in Craft](https://www.thebasement.be/responsive-tables-in-craft/) by Jan D'Hollander - `10 July 2018`
 
 ### Videos
 
