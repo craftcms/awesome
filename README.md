@@ -54,6 +54,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft Link List](http://craftlinklist.com/) - Curated publication collecting interesting links.
 - [CraftQuest](https://craftquest.io/) - Unlimited access to Craft training (and more).
 - [CraftX](https://craftx.io/) - Open source site built on Craft 3, and community of web professionals hosting hangouts.
+- [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
 - [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 - [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
 - [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports.
