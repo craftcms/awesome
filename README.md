@@ -126,6 +126,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ##### Front-end
 - [Craft CMS AJAX Page Transitions with `history.pushState`](https://designbycosmic.com/articles/development/craft-cms-ajax-page-transitions-with-history-pushstate) by Cosmic - `1 Feb 2017`
 - [Editing a Front End Form with Matrix](https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/) by Sean Smith/Caffeine Creations
+- [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
 
 ##### Getting Started
 - [20 Principles for Craft CMS](https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de) by Knut Melvær - `30 Sep 2017`
