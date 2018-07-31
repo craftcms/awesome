@@ -183,6 +183,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [DRY Templating with Twig and Craft CMS](https://medium.com/base-voices/dry-templating-with-twig-and-craft-cms-543292d114aa) by Pierre Stoffe/Base Digital - `31 May 2017`
 - [Filters in Twig and Craft](https://mijingo.com/blog/filters-in-twig-and-craft) by Ryan Irelan/Mijingo
 - [Handling Errors Gracefully in Craft CMS](https://nystudio107.com/blog/handling-errors-gracefully-in-craft-cms) by Andrew Welch/nystudio107 - `20 Oct 2017`
+- [How to check for undefined variables](https://cruftlesscraft.com/how-to-check-for-undefined-variables) by Ben Rogerson - `24 July 2018`
 - [Key Value Arrays in Twig](https://mijingo.com/blog/key-value-arrays-in-twig) by Ryan Irelan/Mijingo
 - [Quick Tips: Craft CMS](http://gregorterrill.com/blog/2017/quick-tips-craft-cms) by Gregor Terrill - `26 May 2017`
 - [Three Twig Tag Types in Craft CMS Explained](https://mijingo.com/blog/three-tag-types-in-craft-cms-explained) by Ryan Irelan/Mijingo
