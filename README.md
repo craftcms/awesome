@@ -130,7 +130,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Getting Started
 - [20 Principles for Craft CMS](https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de) by Knut Melvær - `30 Sep 2017`
-- [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) - `31 July 2018`
+- [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) by Andrew Welch/nystudio107 - `31 July 2018`
 - [Getting Started with CraftCMS](https://www.jonathankelley.design/blog/getting-started-with-craftcms) by Jonathan Kelley - `8 May 2017`
 - [How To Get Started With SEO In Craft CMS](https://medium.com/@galaxyweblinks/how-to-get-started-with-seo-in-craft-cms-b6eef51a5555) by Galaxy Weblinks - `22 June 2018`
 - [Setting up a New Craft CMS 3 Project](https://nystudio107.com/blog/setting-up-a-craft-cms-3-project) by Andrew Welch/nystudio107 - `12 Jan 2018`
@@ -186,7 +186,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Handling Errors Gracefully in Craft CMS](https://nystudio107.com/blog/handling-errors-gracefully-in-craft-cms) by Andrew Welch/nystudio107 - `20 Oct 2017`
 - [How to check for undefined variables](https://cruftlesscraft.com/how-to-check-for-undefined-variables) by Ben Rogerson - `24 July 2018`
 - [Key Value Arrays in Twig](https://mijingo.com/blog/key-value-arrays-in-twig) by Ryan Irelan/Mijingo
-- [Passing data from Twig to JavaScript](https://cruftlesscraft.com/passing-data-from-twig-to-javascript) - `1 Aug 2018`
+- [Passing data from Twig to JavaScript](https://cruftlesscraft.com/passing-data-from-twig-to-javascript) by Ben Rogerson - `1 Aug 2018`
 - [Quick Tips: Craft CMS](http://gregorterrill.com/blog/2017/quick-tips-craft-cms) by Gregor Terrill - `26 May 2017`
 - [Three Twig Tag Types in Craft CMS Explained](https://mijingo.com/blog/three-tag-types-in-craft-cms-explained) by Ryan Irelan/Mijingo
 - [Twig Processing Order & Scope](https://nystudio107.com/blog/twig-processing-order-and-scope) by Andrew Welch/nystudio107 - `3 Jan 2017`
