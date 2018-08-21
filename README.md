@@ -332,7 +332,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft CLI](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
 - [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
 - [Craft CMS Docker](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
-- [Craft 3 Multi-environment](https://github.com/nystudio107/craft-multi-environment) - [Craft 2 Version](https://github.com/nystudio107/craft3-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
+- [Craft 3 Multi-environment](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
 - [Craft Scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
 - [Craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
 - [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
