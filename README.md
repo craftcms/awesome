@@ -31,7 +31,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Showcase](#showcase)
   - [Official Case Studies](#official-case-studies)
   - [Organizations Using Craft](#organizations-using-craft)
-  - [Agencies Using Craft](#agencies-using-craft)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -389,18 +388,3 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Stearns & Foster](http://www.stearnsandfoster.com)
 - [Wildbit](https://wildbit.com)
 - [Yale Environment 360](http://e360.yale.edu)
-
-### Agencies Using Craft
-
-- [Bakken & Bæck](https://bakkenbaeck.com/)
-- [BBDO](https://bbdo.com)
-- [Deloitte](https://www2.deloitte.com/us/en.html)
-- [Good Work](https://www.simplygoodwork.com/)
-- [IDEO](https://www.ideo.com/eu)
-- [J. Walter Thomson](https://www.jwt.com/en)
-- [Lg2](https://lg2.com/en/)
-- [Leo Burnett](https://www.leoburnett.co.uk)
-- [McCann](https://www.mccann.com)
-- [Ogilvy](https://ogilvy.co.uk)
-- [TBWA](http://tbwa.com)
-- [Vangen & Plotz](https://vangenplotz.no)
