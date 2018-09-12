@@ -325,6 +325,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft.Podcast](http://craftpodcast.com/) - A voice for the #CraftCMS community.
 - [Craft CMS 3 with Pixel & Tonic Founder Brandon Kelly!](https://devmode.fm/episodes/craft-cms-3-with-pixel-tonic-founder-brandon-kelly) - Get an insider’s view of the the devel­op­ment of Craft CMS 3.
 - [Talk­ing Craft CMS 3 RC1!](https://devmode.fm/episodes/talking-craft-cms-rc1) - The inau­gur­al episode of the `dev​Mode​.fm` pod­cast.
+- [Commerce Minded](https://www.fostercommerce.com/podcast) - A Craft Commerce-centric podcast that goes behind the scenes to chat with ecommerce merchants, developers, and vendors.
 
 ### Dev Tools
 
