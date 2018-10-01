@@ -292,12 +292,21 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Contact Form in Craft CMS](https://mijingo.com/lessons/contact-form-in-craft-cms/) by Ryan Irelan/Mijingo
 
 ### Presentations
+- [Building a Smarter Craft Commerce Website](https://speakerdeck.com/sjcallender/building-a-smarter-craft-commerce-website) by Stephen Callender - `27 Sep 2018`
 - [Craft 3 Plugin Development](https://speakerdeck.com/brandonkelly/craft-3-plugin-development) by Brandon Kelly - `26 Apr 2017`
 - [Crafting Modern SEO](https://speakerdeck.com/nystudio107/crafting-modern-seo) by Andrew Welch - `23 Oct 2017`
+- [Design Processes and Systems in Craft](https://www.slideshare.net/CourtneyBradford/design-processes-and-systems-in-craft-116882979) by Courtney Bradford - `27 Sep 2018`
 - [Designers Guide to Craft CMS Plugins](https://speakerdeck.com/bymayo/designers-guide-to-craft-cms-plugins) - by Jason Mayo - `3 Nov 2016`
 - [Dot All 2017 Keynote](https://speakerdeck.com/brandonkelly/dot-all-2017-keynote) by Brandon Kelly - `23 Oct 2017`
+- [How to Migrate Legacy Content to Craft Without Losing Your Sanity](https://speakerdeck.com/jamesgreig/how-to-migrate-legacy-content-to-craft-without-losing-your-sanity) by James Greig - `Sep 28 2018`
 - [Intro to Craft](https://speakerdeck.com/philipzaengle/intro-to-craft) by Philip Zaengle - `29 Apr 2016`
 - [Intro to Craft 3](https://speakerdeck.com/brandonkelly/intro-to-craft-3) by Brandon Kelly - `26 Apr 2017`
+- [Making a Craft CMS Website That Flies](https://speakerdeck.com/nystudio107/making-a-craft-cms-website-that-flies) by Andrew Welch - `27 Sep 2018`
+- [Modern Frontends with Craft CMS, GraphQL, and React](https://pauloelias.github.io/modern-frontends-craft-react-graphql-v1/#0) by Paulo Elias
+- [Multilingual Sites in Craft 3](https://speakerdeck.com/drifteaur/multilingual-sites-in-craft-3) by Zoltan Varady - `27 Sep 2018`
+- [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) by Bob Olde Hampsink - `27 Sep 2018`
+- [Scaling Craft CMS Sites for Large Launches](https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches) by Matt Weinberg - `28 Sep 2018`
+- [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) by Brandon Kelly - `28 Sep 2018`
 - [What’s the Deal with Craft CMS?](https://speakerdeck.com/brandonkelly/whats-the-deal-with-craft-cms) by Brandon Kelly - `21 Apr 2016`
 - [Working with Craft Commerce](https://speakerdeck.com/bymayo/working-with-craft-commerce) by Jason Mayo - `2 Nov 2017`
 
@@ -323,7 +332,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Podcasts
 
 - [Craft.Podcast](http://craftpodcast.com/) - A voice for the #CraftCMS community.
+- [Craft CMS 3 as an Application Platform](https://devmode.fm/episodes/craft-cms-3-as-an-application-platform) - devmode.fm and Ben Crocker dis­cuss using Craft CMS 3 as an appli­ca­tion plat­form.
 - [Craft CMS 3 with Pixel & Tonic Founder Brandon Kelly!](https://devmode.fm/episodes/craft-cms-3-with-pixel-tonic-founder-brandon-kelly) - Get an insider’s view of the the devel­op­ment of Craft CMS 3.
+- [Dot All 2018 Conference Recap & Analysis, Live from Berlin!](https://devmode.fm/episodes/dot-all-2018-conference-recap-analysis-live-from-berlin) - The dev​Mode​.fm crew recaps the Dot All 2018 Con­fer­ence in Berlin.
 - [Talk­ing Craft CMS 3 RC1!](https://devmode.fm/episodes/talking-craft-cms-rc1) - The inau­gur­al episode of the `dev​Mode​.fm` pod­cast.
 - [Commerce Minded](https://www.fostercommerce.com/podcast) - A Craft Commerce-centric podcast that goes behind the scenes to chat with ecommerce merchants, developers, and vendors.
 
