@@ -104,6 +104,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Creating a Content Builder in Craft CMS](https://nystudio107.com/blog/creating-a-content-builder-in-craft-cms) by Andrew Welch/nystudio107 - `16 Jan 2017`
 
 ##### Content Migrations
+- [Add users to Craft with content migrations](https://joren.co/add-users-to-craft-with-content-migrations/) by Joren Van Hee - `28 Oct 2018`
 - [Using Content Migrations in Craft 3](https://adigital.agency/blog/using-content-migrations-in-craft-3) by Matt Shearing/A Digital - `23 Feb 2018`
 
 ##### Craft 3
