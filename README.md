@@ -3,7 +3,8 @@
   <br><br>
 </div>
 
-# Awesome Craft CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Craft CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=craftcms%2Fawesome)](https://listlist.net/user/craftcms/awesome?subscribe)
+
 > Carefully curated list of awesome Craft CMS articles, resources and shiny things.
 
 [Craft CMS](https://craftcms.com) is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients. Built to be as exceptionably scalable and as flexible as possible, without compromising on the ease of use for content authors.
