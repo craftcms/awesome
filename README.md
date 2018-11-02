@@ -151,7 +151,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ##### Performance and Testing
 - [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms) by Andrew Welch/nystudio107 - `29 Nov 2017`
 - [Debug Tool in Craft 3: Here’s all you need to know about it](https://medium.com/@galaxyweblinks/debug-tool-in-craft-3-heres-all-you-need-to-know-about-it-be8a3395ebbd) by Galaxy Weblinks - `2 July 2018`
-- [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by Jason Mayo/Shape - `2 Apr 2017`
+- [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by Jason Mayo/MadeByShape - `2 Apr 2017`
 - [Profiling your Website with Craft CMS 3’s Debug Toolbar](https://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar) by Andrew Welch/nystudio107 - `9 Apr 2018`
 - [Speed up your Craft CMS Templates with Eager Loading](https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading) by Andrew Welch/nystudio107 - `21 Dec 2017`
 - [Static Page Caching with Craft CMS](https://nystudio107.com/blog/static-caching-with-craft-cms) by Andrew Welch/nystudio107 - `25 Dec 2017`
@@ -309,6 +309,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) by Bob Olde Hampsink - `27 Sep 2018`
 - [Scaling Craft CMS Sites for Large Launches](https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches) by Matt Weinberg - `28 Sep 2018`
 - [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) by Brandon Kelly - `28 Sep 2018`
+- [Twig Super Power Roundup](https://speakerdeck.com/bymayo/twig-super-power-roundup-craft-cms-3) by Jason Mayo - `1 Nov 2018`
 - [What’s the Deal with Craft CMS?](https://speakerdeck.com/brandonkelly/whats-the-deal-with-craft-cms) by Brandon Kelly - `21 Apr 2016`
 - [Working with Craft Commerce](https://speakerdeck.com/bymayo/working-with-craft-commerce) by Jason Mayo - `2 Nov 2017`
 
