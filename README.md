@@ -50,6 +50,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Community
 
+- [Craft Coding Challenge](https://craftcodingchallenge.com/) - A training ground for Craft CMS developers to test and improve their coding skills.
 - [Craft Cookbook](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
 - [Craft Link List](http://craftlinklist.com/) - Curated publication collecting interesting links.
 - [CraftQuest](https://craftquest.io/) - Unlimited access to Craft training (and more).
@@ -154,6 +155,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by Jason Mayo/MadeByShape - `2 Apr 2017`
 - [Profiling your Website with Craft CMS 3’s Debug Toolbar](https://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar) by Andrew Welch/nystudio107 - `9 Apr 2018`
 - [Speed up your Craft CMS Templates with Eager Loading](https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading) by Andrew Welch/nystudio107 - `21 Dec 2017`
+- [Static File Caching with Craft CMS 3, aka The Best Of Both Worlds](https://medium.com/@ben_45934/static-file-caching-with-craft-cms-3-aka-the-best-of-both-worlds-879928e2bfb2) by Ben Croker/PutYourLightsOn - `21 Nov 2018`
 - [Static Page Caching with Craft CMS](https://nystudio107.com/blog/static-caching-with-craft-cms) by Andrew Welch/nystudio107 - `25 Dec 2017`
 - [The Craft `{% cache %}` Tag In-Depth](https://nystudio107.com/blog/the-craft-cache-tag-in-depth) by Andrew Welch/nystudio107 - `24 Jan 2018`
 - [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell - `29 Aug 2017`
@@ -161,7 +163,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ##### Plugins
 - [3 Things to Know About Craft Plugin Development](https://mijingo.com/blog/3-things-to-know-about-craft-plugin-development) by Ryan Irelan/Mijingo
 - [Craft Plugins in Craft 3](https://mijingo.com/blog/craft-plugins-in-craft-3) by Ryan Irelan/Mijingo
-- [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) by Ben Croker
+- [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) by Ryan Irelan/Mijingo
 - [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) by Ryan Irelan/Mijingo
 
 ##### Publications
@@ -254,9 +256,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Plugins
 - [Craft 3 Plugin Development - Controllers & Variables](https://www.youtube.com/watch?v=N2N1TQgdSL0) by Ben Parizek/Straight Up Craft - `7 Apr 2017`
-- [Craft Plugin Development](https://mijingo.com/products/screencasts/craft-plugin-development/) by Ryan Irelan/Mijingo - `Paid`
-- [Craft Plugin Development Workbook](https://mijingo.com/products/workbooks/craft-plugin-development-workbook/) by Ryan Irelan/Mijingo - `Paid`
-- [Getting Started with Craft Plugin Development](https://mijingo.com/blog/getting-started-with-craft-plugin-development) by Ryan Irelan/Mijingo
+- [Craft Plugin Development](https://mijingo.com/products/screencasts/craft-plugin-development/) by Ben Croker/Mijingo - `Paid`
+- [Craft Plugin Development Workbook](https://mijingo.com/products/workbooks/craft-plugin-development-workbook/) by Ben Croker/Mijingo - `Paid`
+- [Getting Started with Craft Plugin Development (Craft 3)](https://craftquest.io/courses/how-to-create-craft-plugin) by Ben Croker/CraftQuest
+- [Getting Started with Craft Plugin Development (Craft 2)](https://mijingo.com/blog/getting-started-with-craft-plugin-development) by Ryan Irelan/Mijingo
 - [Migrating a Field Type plugin from Craft 2 to Craft 3](https://www.youtube.com/watch?v=lx6GkcT8SyU) by Ben Parizek/Straight Up Craft - `24 Mar 2017`
 - [Migrating a plugin from Craft 2 to Craft 3](https://www.youtube.com/watch?v=twQY7GbpYGg&t=34s) by Ben Parizek/Straight Up Craft - `3 Mar 2017`
 - [Migrating a website with plugins from Craft 2 to Craft 3](https://www.youtube.com/watch?v=T6wBZbH0oDU) by Ben Parizek/Straight Up Craft - `4 May 2018`
@@ -309,6 +312,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) by Bob Olde Hampsink - `27 Sep 2018`
 - [Scaling Craft CMS Sites for Large Launches](https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches) by Matt Weinberg - `28 Sep 2018`
 - [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) by Brandon Kelly - `28 Sep 2018`
+- [The Art Of Plugin Development](https://speakerdeck.com/putyourlightson/the-art-of-plugin-development) by Ben Croker - `27 Sep 2018`
 - [Twig Super Power Roundup](https://speakerdeck.com/bymayo/twig-super-power-roundup-craft-cms-3) by Jason Mayo - `1 Nov 2018`
 - [What’s the Deal with Craft CMS?](https://speakerdeck.com/brandonkelly/whats-the-deal-with-craft-cms) by Brandon Kelly - `21 Apr 2016`
 - [Working with Craft Commerce](https://speakerdeck.com/bymayo/working-with-craft-commerce) by Jason Mayo - `2 Nov 2017`
