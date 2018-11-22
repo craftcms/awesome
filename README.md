@@ -40,7 +40,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - **Website** - [craftcms.com](https://craftcms.com)
 - **Craft 3 Docs** - [docs.craftcms.com/v3](https://docs.craftcms.com/v3) - [Class Reference](https://docs.craftcms.com/api/v3)
 - **Craft 2 Docs** - [docs.craftcms.com/v2](https://docs.craftcms.com/v2) - [Class Reference](https://docs.craftcms.com/api/v2)
-- **Support** - [craftcms.com/support](https://craftcms.com/support)
+- **Guides** - [craftcms.com/guides](https://craftcms.com/guides)
 - **Partners** - [craftcms.com/partners](https://craftcms.com/partners)
 - **Licence Management** - [id.craftcms.com](https://id.craftcms.com)
 - **Repository** - [github.com/craftcms/cms](https://github.com/craftcms/cms)
