@@ -38,6 +38,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Official Links
 
 - **Website** - [craftcms.com](https://craftcms.com)
+- **Craft Commerce** - [craftcommerce.com](https://craftcommerce.com)
 - **Craft 3 Docs** - [docs.craftcms.com/v3](https://docs.craftcms.com/v3) - [Class Reference](https://docs.craftcms.com/api/v3)
 - **Craft 2 Docs** - [docs.craftcms.com/v2](https://docs.craftcms.com/v2) - [Class Reference](https://docs.craftcms.com/api/v2)
 - **Guides** - [craftcms.com/guides](https://craftcms.com/guides)
@@ -59,11 +60,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 - [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
 - [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports.
-- [Meetups](https://craftcms.com/community#meetups) - Find a local Craft meetup.
+- [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
 - [Mijingo](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
 - [Professionals](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
-- [Slack](https://craftcms.com/community#slack) - Nearing 6,500 users, join the Slack group dedicated to Craft CMS discussion.
-- [Spectrum](https://spectrum.chat/craftcms) - The official Spectrum community for Craft CMS.
+- [Slack](https://craftcms.com/slack) - Join the Slack group dedicated to Craft CMS discussion.
 - [StackExchange](https://craftcms.stackexchange.com) - Q&A for administrators, end users, developers and designers.
 - [Straight Up Craft](http://straightupcraft.com/) - Tutorials, plugin directory, event listings and more.
 - [Twitter](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is [`#craftcms`](https://twitter.com/hashtag/craftcms).
