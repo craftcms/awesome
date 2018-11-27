@@ -111,6 +111,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Craft 3
 - [11 Things You Need to Know About Craft 3](https://mijingo.com/blog/11-things-you-need-to-know-about-craft-3) by Ryan Irelan/Mijingo
+- [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) by Lauren Swarbrick/Abstrakt - `22 Nov 2019`
 
 ##### Deployment
 - [Deploying CraftCMS to Digital Ocean](https://www.jonathankelley.design/blog/deploying-craftcms-to-digital-ocean) by Jonathan Kelley - `13 May 2017`
@@ -365,52 +366,58 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Official Case Studies
 
-- [Agatha Christie Ltd](https://craftcms.com/news/agatha-christie-mint-digital-case-study) - Project:  [agathachristie.com](http://agathachristie.com) by [Mint Digital](http://mintdigital.com/)
-- [Associated Press](https://craftcms.com/news/ap-vector-case-study) - Project: [blog.ap.org](https://blog.ap.org) + [insights.ap.org](https://insights.ap.org) by [Vector Media Group](https://www.vectormediagroup.com/)
-- [Barefoot Contessa](https://craftcms.com/news/barefoot-contessa-case-study) - Project: [barefootcontessa.com](https://barefootcontessa.com) by [Apartment One](https://aptone.com/)
-- [Confab Events](https://craftcms.com/news/confab-events-mijingo-case-study) - Project: [confabevents.com](http://confabevents.com) by [Mijingo](https://mijingo.com)
-- [iDE Global](https://craftcms.com/news/ide-global-case-study) - Project: [ideglobal.org](https://ideglobal.org) by [Flipbox Digital](https://www.flipboxdigital.com/)
-- [Mixmag Media](https://craftcms.com/news/mixmag-rye-case-study) - Project: [mixmag.net](http://mixmag.net) by [The Rye Agency](http://rye.agency)
-- [Nook Sleep Systems](https://craftcms.com/news/nook-zaengle-case-study) - Project: [nooksleep.com](http://nooksleep.com) by [Zaengle Corp](http://zaengle.com/) and [Never Not Prepared](http://nevernotprepared.com/)
-- [Samuelsohn](https://craftcms.com/news/samuelsohn-digital-surgeons-case-study) - Project: [samuelsohn.com](http://samuelsohn.com) by [Digital Surgeons](http://digitalsurgeons.com/)
+- [Associated Press](https://craftcms.com/in-the-field/associated-press) - Project: [blog.ap.org](https://blog.ap.org) + [insights.ap.org](https://insights.ap.org) by [Vector Media Group](https://www.vectormediagroup.com/)
+- [Barefoot Contessa](https://craftcms.com/in-the-field/barefoot-contessa) - Project: [barefootcontessa.com](https://barefootcontessa.com) by [Apartment One](https://aptone.com/) & [Jonathan Melville](https://codemdd.io/)
+- [Grill'd](https://craftcms.com/in-the-field/grilld) - Project: [grilld.com.au](https://www.grilld.com.au/) by [Evolution 7](https://www.evolution7.com.au/)
+- [iDE Global](https://craftcms.com/in-the-field/ide-global) - Project: [ideglobal.org](https://ideglobal.org) by [Flipbox Digital](https://www.flipboxdigital.com/)
+- [Mixmag Media](https://craftcms.com/in-the-field/mixmag) - Project: [mixmag.net](http://mixmag.net) by [The Rye Agency](http://rye.agency)
+- [Samuelsohn](https://craftcms.com/in-the-field/samuelsohn) - Project: [samuelsohn.com](http://samuelsohn.com) by [Digital Surgeons](http://digitalsurgeons.com/)
 
 ### Organizations Using Craft
 
 - [Agatha Christie](http://www.agathachristie.com)
+- [An Event Apart](http://aneventapart.com)
 - [Associated Press: Blog](https://blog.ap.org) - Plus the [Insights](https://insights.ap.org) website.
 - [Atkins](http://www.atkins.com)
+- [Atlassian: Design](https://atlassian.design)
+- [BigCommerce](https://www.bigcommerce.com)
 - [Bill Nye](https://www.billnye.com/)
 - [City of Oakland](https://www.oaklandca.gov/)
-- [Cyanogen](https://cyngn.com)
+- [Confab Events](http://confabevents.com)
 - [Dalai Lama](https://www.dalailama.com)
 - [Dialpad](https://www.dialpad.com/)
 - [Duck Brand](http://www.duckbrand.com)
 - [Emily Carr University](http://www.ecuad.ca)
 - [Field Notes](https://fieldnotesbrand.com) - Uses [Craft Commerce](https://craftcommerce.com).
 - [Foursquare for Business](http://business.foursquare.com)
+- [Grill'd](https://www.grilld.com.au/)
 - [Guy Fieri](http://www.guyfieri.com/)
 - [Hootsuite](https://hootsuite.com)
 - [Icon Motorsports](http://www.rideicon.com)
+- [iDE Global](https://ideglobal.org)
 - [Intel: Managed Service Providers](http://msp.intel.com)
 - [Klipsch](http://www.klipsch.com)
 - [LA Marathon](http://lamarathon.com)
 - [Layer Tennis](http://www.layertennis.com) - A [Coudal Partners](http://coudal.com/) production sponsored by [Adobe](https://www.adobe.com/).
+- [Medialoot](https://medialoot.com)
 - [Mini: Miles Ahead](http://www.bemilesahead.net/)
+- [Mixmag Media](http://mixmag.net)
 - [Naughty Dog](https://www.naughtydog.com/)
 - [Naviance](http://www.naviance.com)
 - [Netflix: Media Center](https://media.netflix.com)
 - [Nissin Foods](http://nissinfoods.com/)
-- [Oakley: X-Metal Collection](http://www.oakley.com/en/blog)
+- [Outreach](https://www.outreach.io)
 - [PBS Kids Games](https://itunes.apple.com/us/app/pbs-kids-games/id1050773989) - Craft powers the APIs used for the app.
 - [PBS Parents](http://www.pbs.org/parents/child-development/social-emotional)
+- [Pingdom](https://www.pingdom.com)
 - [Princeton Theological Seminary](http://ptsem.edu)
-- [Progressive: News](http://at.progressive.com)
 - [ProPublica](https://www.propublica.org)
 - [Reddit Inc.](https://www.redditinc.com/)
 - [SalesforceIQ](https://www.salesforceiq.com)
+- [Samuelsohn](http://samuelsohn.com)
 - [Sonos](https://www.sonos.com)
-- [Stance](https://stance.com/)
 - [Stanford Research Park](http://www.stanfordresearchpark.com)
 - [Stearns & Foster](http://www.stearnsandfoster.com)
+- [Visit Victoria: Corporate](https://corporate.visitvictoria.com)
 - [Wildbit](https://wildbit.com)
 - [Yale Environment 360](http://e360.yale.edu)
