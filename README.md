@@ -382,6 +382,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Atlassian: Design](https://atlassian.design)
 - [BigCommerce](https://www.bigcommerce.com)
 - [Bill Nye](https://www.billnye.com/)
+- [City of Marion, IN](https://cityofmarion.in.gov/)
 - [City of Oakland](https://www.oaklandca.gov/)
 - [Confab Events](http://confabevents.com)
 - [Dalai Lama](https://www.dalailama.com)
