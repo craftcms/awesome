@@ -146,6 +146,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Getting Started with Craft CMS 2 and Laravel Valet](https://medium.com/@jalendport/running-craft-cms-2-on-laravel-valet-8a750d1c19e) by Jalen Davenport - `9 Feb 2018`
 - [Getting Started with Craft CMS 3 and Laravel Valet](https://medium.com/@jalendport/running-craft-cms-3-on-laravel-valet-6df61e5193fd) by Jalen Davenport - `23 Feb 2018`
 - [How I Automate My Local Development Craft CMS 2.x Installs](https://medium.com/@timknight/how-i-automate-my-craft-cms-2-x-installs-8427f70914e4) by Tim Knight - `17 Jul 2017`
+- [A Craft CMS Development Workflow With Docker: Part 1 - Local Development](https://mattgrayisok.com/a-craft-cms-development-workflow-with-docker-part-1-local-development) by Matt Gray - `4 Dec 2018`
 
 ##### Modules
 - [Enhancing a Craft CMS 3 Website with a Custom Module](https://nystudio107.com/blog/enhancing-a-craft-cms-3-website-with-a-custom-module) by Andrew Welch/nystudio107 - `19 Mar 2018`
