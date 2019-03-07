@@ -167,6 +167,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft Plugins in Craft 3](https://mijingo.com/blog/craft-plugins-in-craft-3) by Ryan Irelan/Mijingo
 - [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) by Ryan Irelan/Mijingo
 - [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) by Ryan Irelan/Mijingo
+-[Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) by Matt Stein
+
 
 ##### Publications
 - [The Guide to Craft CMS Development](https://gomasuga.com/course/craft-cms-guide) by Ryan Masuga
@@ -268,6 +270,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Plugins in Craft 3](https://mijingo.com/lessons/plugins-in-craft-3/) by Ryan Irelan/Mijingo
 - [Tools for getting started with plugin development?](https://www.youtube.com/watch?v=DrT9tjkDeQY) by Ben Parizek/Straight Up Craft - `11 Mar 2016`
 - [Writing Bulletproof Database Migrations](https://www.youtube.com/watch?v=FkdPiWVd8BI) by Ben Parizek/Straight Up Craft - `2 Sep 2016`
+- [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin)
+
 
 ##### Security
 - [Critical Updates and Craft CMS](https://www.youtube.com/watch?v=Fl1DZVHTFio) by Ben Parizek/Straight Up Craft - `2 Sep 2016`
