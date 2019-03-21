@@ -167,7 +167,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Craft Plugins in Craft 3](https://mijingo.com/blog/craft-plugins-in-craft-3) by Ryan Irelan/Mijingo
 - [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) by Ryan Irelan/Mijingo
 - [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) by Ryan Irelan/Mijingo
--[Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) by Matt Stein
+- [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) by Matt Stein
 
 
 ##### Publications
