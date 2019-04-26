@@ -324,6 +324,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Working with Craft Commerce](https://speakerdeck.com/bymayo/working-with-craft-commerce) by Jason Mayo - `2 Nov 2017`
 
 ### Praises
+- [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) by Honcho - `16 Apr 2019`
 - [10 Reasons Why We Love Craft CMS](http://taechogroup.com/blog/10-reasons-why-we-love-craft-cms) by Taecho Group
 - [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) by Adam Fairholm/New Media Campaigns - `19 May 2017`
 - [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) by Harry Keller/diesdas.digital - `18 Apr 2017`
