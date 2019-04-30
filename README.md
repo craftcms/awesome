@@ -324,7 +324,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Working with Craft Commerce](https://speakerdeck.com/bymayo/working-with-craft-commerce) by Jason Mayo - `2 Nov 2017`
 
 ### Praises
-- [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) by Honcho - `16 Apr 2019`
 - [10 Reasons Why We Love Craft CMS](http://taechogroup.com/blog/10-reasons-why-we-love-craft-cms) by Taecho Group
 - [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) by Adam Fairholm/New Media Campaigns - `19 May 2017`
 - [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) by Harry Keller/diesdas.digital - `18 Apr 2017`
@@ -338,6 +337,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Why We Love Craft CMS](https://www.viget.com/articles/why-we-love-craft-cms) by Trevor Davis/Viget - `17 Oct 2014`
 - [Why We Use Craft CMS](https://designbycosmic.com/articles/development/why-we-use-craft-cms) by Cosmic - `1 Feb 2017`
 - [Why We Use Craft CMS](https://builtbymasonry.com/journal/why-we-use-craft-cms) by Masonry - `7 Nov 2017`
+- [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) by Honcho - `16 Apr 2019`
 - [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) by Welford Media - `14 Oct 2016`
 - [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) by Abstrakt - `25 Apr 2017`
 - [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) by Sam Goddard/Kind - `21 Mar 2017`
