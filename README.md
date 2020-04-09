@@ -39,6 +39,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - **Website** - [craftcms.com](https://craftcms.com)
 - **Craft Commerce** - [craftcommerce.com](https://craftcommerce.com)
+- **Craft CMS Tutorial** – [docs.craftcms.com/tutorial](https://docs.craftcms.com/tutorial)
 - **Craft 3 Docs** - [docs.craftcms.com/v3](https://docs.craftcms.com/v3) - [Class Reference](https://docs.craftcms.com/api/v3)
 - **Craft 2 Docs** - [docs.craftcms.com/v2](https://docs.craftcms.com/v2) - [Class Reference](https://docs.craftcms.com/api/v2)
 - **Guides** - [craftcms.com/guides](https://craftcms.com/guides)
