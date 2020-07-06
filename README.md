@@ -115,7 +115,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) by Lauren Swarbrick/Abstrakt - `22 Nov 2019`
 
 ##### Deployment
-- [Deploying CraftCMS to Digital Ocean](https://www.jonathankelley.design/blog/deploying-craftcms-to-digital-ocean) by Jonathan Kelley - `13 May 2017`
 - [Zero downtime Craft CMS 3 deployments with Buddy.works](https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works) by Rias Van der Veken
 
 ##### Element API
