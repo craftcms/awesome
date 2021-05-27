@@ -156,7 +156,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by Jason Mayo/MadeByShape - `2 Apr 2017`
 - [Profiling your Website with Craft CMS 3’s Debug Toolbar](https://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar) by Andrew Welch/nystudio107 - `9 Apr 2018`
 - [Speed up your Craft CMS Templates with Eager Loading](https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading) by Andrew Welch/nystudio107 - `21 Dec 2017`
-- [Static File Caching with Craft CMS 3, aka The Best Of Both Worlds](https://medium.com/@ben_45934/static-file-caching-with-craft-cms-3-aka-the-best-of-both-worlds-879928e2bfb2) by Ben Croker/PutYourLightsOn - `21 Nov 2018`
+- [Static File Caching with Craft CMS 3, aka The Best Of Both Worlds](https://putyourlightson.com/articles/static-file-caching-with-craft-cms-3-aka-the-best-of-both-worlds) by Ben Croker/PutYourLightsOn - `21 Nov 2018`
 - [Static Page Caching with Craft CMS](https://nystudio107.com/blog/static-caching-with-craft-cms) by Andrew Welch/nystudio107 - `25 Dec 2017`
 - [The Craft `{% cache %}` Tag In-Depth](https://nystudio107.com/blog/the-craft-cache-tag-in-depth) by Andrew Welch/nystudio107 - `24 Jan 2018`
 - [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell - `29 Aug 2017`
@@ -175,6 +175,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Introduction to Craft CMS](https://github.com/jeromecoupe/iad_craftcms_introduction) by Jérôme Coupé/Webstoemp (on Github)
 
 ##### Security
+- [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) by Ben Croker/PutYourLightsOn - `4 May 2021`
+- [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) by Ben Croker/PutYourLightsOn - `26 Jan 2021`
+- [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) by Ben Croker/PutYourLightsOn - `13 Jan 2021`
 - [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) by Andrew Welch/nystudio107 - `19 Mar 2017`
 - [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) by Ryan Irelan/Mijingo
