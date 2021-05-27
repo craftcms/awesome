@@ -388,6 +388,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Associated Press: Blog](https://blog.ap.org) - Plus the [Insights](https://insights.ap.org) website.
 - [Atkins](http://www.atkins.com)
 - [Atlassian: Design](https://atlassian.design)
+- [Betterteam](https://www.betterteam.com/)
 - [BigCommerce](https://www.bigcommerce.com)
 - [Bill Nye](https://www.billnye.com/)
 - [City of Marion, IN](https://cityofmarion.in.gov/)
@@ -411,6 +412,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Medialoot](https://medialoot.com)
 - [Mini: Miles Ahead](http://www.bemilesahead.net/)
 - [Mixmag Media](http://mixmag.net)
+- [NameSnack](https://www.namesnack.com/)
 - [Naughty Dog](https://www.naughtydog.com/)
 - [Naviance](http://www.naviance.com)
 - [Netflix: Media Center](https://media.netflix.com)
