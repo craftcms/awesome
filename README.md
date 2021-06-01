@@ -38,11 +38,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Official Links
 
 - **Website** - [craftcms.com](https://craftcms.com)
-- **Craft Commerce** - [craftcommerce.com](https://craftcommerce.com)
-- **Craft CMS Tutorial** – [docs.craftcms.com/tutorial](https://docs.craftcms.com/tutorial)
-- **Craft 3 Docs** - [docs.craftcms.com/v3](https://docs.craftcms.com/v3) - [Class Reference](https://docs.craftcms.com/api/v3)
-- **Craft 2 Docs** - [docs.craftcms.com/v2](https://docs.craftcms.com/v2) - [Class Reference](https://docs.craftcms.com/api/v2)
-- **Guides** - [craftcms.com/guides](https://craftcms.com/guides)
+- **Craft Commerce** - [craftcms.com/commerce](https://craftcms.com/commerce)
+- **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
+- **Craft CMS Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
+- **Craft CMS 3 Docs** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
+- **Craft CMS 2 Docs** - [craftcms.com/docs/2.x](https://craftcms.com/docs/2.x/) - [Class Reference](https://docs.craftcms.com/api/v2)
+- **Craft Commerce 3 Docs** - [craftcms.com/docs/commerce/3.x](https://craftcms.com/docs/commerce/3.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v3)
+- **Craft Commerce 2 Docs** - [craftcms.com/docs/commerce/2.x](https://craftcms.com/docs/commerce/2.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v2)
+- **Craft Commerce 1 Docs** - [craftcms.com/docs/commerce/1.x](https://craftcms.com/docs/commerce/1.x/)
+- **Craft Nitro 2 Docs** - [craftcms.com/docs/nitro/2.x](https://craftcms.com/docs/nitro/2.x/)
+- **Knowledge Base** - [craftcms.com/knowledge-base](https://craftcms.com/knowledge-base)
 - **Partners** - [craftcms.com/partners](https://craftcms.com/partners)
 - **Licence Management** - [id.craftcms.com](https://id.craftcms.com)
 - **Repository** - [github.com/craftcms/cms](https://github.com/craftcms/cms)
@@ -257,6 +262,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Managing Multiple Sites in Craft 3 – Sites and Localization](https://www.youtube.com/watch?v=u_Yqwvx-gA0) by Ben Parizek/Straight Up Craft - `10 Mar 2017`
 - [Using Craft CMS 3 Multi-Site](https://mijingo.com/lessons/craft-3-multi-site/) by Ryan Irelan/Mijingo
 
+##### Nitro
+- [Hot Module Reloading with Laravel Mix v6 and Craft Nitro 2](https://andrewmeni.ch/blog/hot-module-reloading-with-laravel-mix-v6-and-craft-nitro-2)
+- [Local Development with Craft Nitro](https://craftquest.io/courses/local-development-localhosting-craft-nitro)
+
 ##### Performance and Testing
 - [Yii Debug Toolbar in Craft CMS 3](https://mijingo.com/lessons/yii-debug-toolbar-craft-cms/) by Ryan Irelan/Mijingo
 
@@ -374,12 +383,20 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Official Case Studies
 
+- [% Arabica](https://craftcms.com/in-the-field/arabica) - Project: [arabicacoffee.hk](https://arabicacoffee.hk/) by [Digital Butter](https://www.butter.com.hk/)
 - [Associated Press](https://craftcms.com/in-the-field/associated-press) - Project: [blog.ap.org](https://blog.ap.org) + [insights.ap.org](https://insights.ap.org) by [Vector Media Group](https://www.vectormediagroup.com/)
 - [Barefoot Contessa](https://craftcms.com/in-the-field/barefoot-contessa) - Project: [barefootcontessa.com](https://barefootcontessa.com) by [Apartment One](https://aptone.com/) & [Jonathan Melville](https://codemdd.io/)
 - [Grill'd](https://craftcms.com/in-the-field/grilld) - Project: [grilld.com.au](https://www.grilld.com.au/) by [Evolution 7](https://www.evolution7.com.au/)
 - [iDE Global](https://craftcms.com/in-the-field/ide-global) - Project: [ideglobal.org](https://ideglobal.org) by [Flipbox Digital](https://www.flipboxdigital.com/)
+- [Kappa Alpha Theta Fraternity](https://craftcms.com/in-the-field/kappa-alpha-theta-fraternity) - Project: [kappaalphatheta.org](https://www.kappaalphatheta.org/) by [TrendyMinds](https://trendyminds.com/)
+- [McKinnon and Harris](https://craftcms.com/in-the-field/mckinnon-and-harris) - Project: [mckinnonharris.com](https://www.mckinnonharris.com) by [Foster Made](https://fostermade.co)
 - [Mixmag Media](https://craftcms.com/in-the-field/mixmag) - Project: [mixmag.net](http://mixmag.net) by [The Rye Agency](http://rye.agency)
+- [Poki](https://craftcms.com/in-the-field/poki) - Project: [poki.com](https://poki.com/) by Evermade
 - [Samuelsohn](https://craftcms.com/in-the-field/samuelsohn) - Project: [samuelsohn.com](http://samuelsohn.com) by [Digital Surgeons](http://digitalsurgeons.com/)
+- [Segway](https://craftcms.com/in-the-field/segway) - Project: [uk-en.segway.com](https://uk-en.segway.com/) by Wirelab Digital Agency
+- [Simon Fraser University (SFU) Beedie School of Business](https://craftcms.com/in-the-field/simon-fraser-university-sfu-beedie-school-of-business) - Project: [beedie.sfu.ca](https://beedie.sfu.ca/) by Goat
+- [Ultimate.ai](https://craftcms.com/in-the-field/ultimate-ai) - Project: [ultimate.ai](https://www.ultimate.ai/) by Function & Form Digital
+- [YumEarth](https://craftcms.com/in-the-field/yumearth) - Project: [yumearth.com](https://yumearth.com) by Electric Enjin
 
 ### Organizations Using Craft
 
