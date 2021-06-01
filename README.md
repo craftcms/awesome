@@ -263,6 +263,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Using Craft CMS 3 Multi-Site](https://mijingo.com/lessons/craft-3-multi-site/) by Ryan Irelan/Mijingo
 
 ##### Nitro
+- [How I Use Craft Scripts in Craft CMS Running in Craft Nitro 2](https://andreademers.substack.com/p/craft-scripts-craft-cms-craft-nitro-2)
 - [Hot Module Reloading with Laravel Mix v6 and Craft Nitro 2](https://andrewmeni.ch/blog/hot-module-reloading-with-laravel-mix-v6-and-craft-nitro-2)
 - [Local Development with Craft Nitro](https://craftquest.io/courses/local-development-localhosting-craft-nitro)
 
