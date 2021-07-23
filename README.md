@@ -40,6 +40,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - **Website** - [craftcms.com](https://craftcms.com)
 - **Craft Commerce** - [craftcms.com/commerce](https://craftcms.com/commerce)
 - **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
+- **Craft + Craft Commerce Demos** - [craftcms.com/demo](https://craftcms.com/demo)
 - **Craft CMS Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
 - **Craft CMS 3 Docs** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
 - **Craft CMS 2 Docs** - [craftcms.com/docs/2.x](https://craftcms.com/docs/2.x/) - [Class Reference](https://docs.craftcms.com/api/v2)
