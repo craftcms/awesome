@@ -121,7 +121,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) by Lauren Swarbrick/Abstrakt - `22 Nov 2019`
 
 ##### Deployment
-- [Zero downtime Craft CMS 3 deployments with Buddy.works](https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works) by Rias Van der Veken
+- [Atomic Deployments Without Tears](https://nystudio107.com/blog/executing-atomic-deployments) by Andrew Welch/nystudio107
 
 ##### Element API
 - [Global Sets in the Craft Element API](https://mijingo.com/blog/accessing-global-sets-from-the-element-api-in-craft) by Ryan Irelan/Mijingo
