@@ -141,7 +141,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [20 Principles for Craft CMS](https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de) by Knut Melvær - `30 Sep 2017`
 - [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) by Andrew Welch/nystudio107 - `31 July 2018`
 - [Craft CMS through the eyes of a website designer](https://adigital.agency/blog/craft-cms-through-the-eyes-of-a-website-designer) by Laura Montgomery/A Digital Agency– `3 September 2021`
-- [How To Get Started With SEO In Craft CMS](https://medium.com/@galaxyweblinks/how-to-get-started-with-seo-in-craft-cms-b6eef51a5555) by Galaxy Weblinks - `22 June 2018`
+- [How To Get Started With SEO In Craft CMS](https://blog.galaxyweblinks.com/how-to-get-started-with-seo-in-craft-cms/) by Galaxy Weblinks - `22 June 2018`
 - [Setting up a New Craft CMS 3 Project](https://nystudio107.com/blog/setting-up-a-craft-cms-3-project) by Andrew Welch/nystudio107 - `12 Jan 2018`
 
 ##### Integrations
