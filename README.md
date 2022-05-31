@@ -182,8 +182,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ##### Security
 - [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) by Ben Croker/PutYourLightsOn - `4 May 2021`
+- [Securing Your Craft Site in 2022—Part 3](https://putyourlightson.com/articles/securing-your-craft-site-in-2022-part-3) by Ben Croker/PutYourLightsOn - `24 May 2022`
 - [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) by Ben Croker/PutYourLightsOn - `26 Jan 2021`
 - [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) by Ben Croker/PutYourLightsOn - `13 Jan 2021`
+- [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
+- [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) by Ben Croker/PutYourLightsOn - `31 Oct 2021`
 - [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) by Andrew Welch/nystudio107 - `19 Mar 2017`
 - [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) by Ryan Irelan/Mijingo
