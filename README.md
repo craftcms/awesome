@@ -80,7 +80,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Plugins
 
-- [Craft 3 Plugins](https://plugins.craftcms.com)
+- [Craft 4 Plugins](https://plugins.craftcms.com/?craft4)
+- [Craft 3 Plugins](https://plugins.craftcms.com/?craft3)
 - [Submit Craft 3 Plugins](https://id.craftcms.com)
 - [Craft 2 Plugins](https://craftplug.in/)
 - [Plugin Factory](https://pluginfactory.io/)
