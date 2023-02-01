@@ -8,7 +8,7 @@ Official list of [awesome](https://github.com/topics/awesome) Craft CMS resource
 **[Craft CMS](https://craftcms.com) is a flexible, extensible content management system for building bespoke digital experiences.**
 
 ### Contributing
-Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first. If you see an article or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Also, ideas for more categories [are needed](https://github.com/chasegiunta/awesome-craft/issues/2)! Thank you to all contributors; you rock!
+Please take a look at the [contribution guidelines](CONTRIBUTING.md). If you see an article or resource here that is no longer maintained or is not a good fit, please submit a pull request. We appreciate your input!
 
 ### Contents
 <!-- PLEASE USE `doctoc --maxlevel 3 README.md` TO KEEP THE TOC TO AN APPROPRIATE SIZE -->
