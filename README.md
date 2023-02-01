@@ -1,13 +1,11 @@
-<div align="center">
-  <img width="400" src="/awesome-craft.svg" alt="Awesome Craft CMS">
-  <br><br>
-</div>
+# Craft CMS ![Awesome](https://badgen.net/badge/icon/Resources?icon=awesome&label=Craft%20CMS&labelColor=red&color=black)
 
-# Awesome Craft CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Official list of [awesome](https://github.com/topics/awesome) Craft CMS resources, article, and other and shiny things.
 
-> Carefully curated list of awesome Craft CMS articles, resources and shiny things.
+> **Note**  
+> Something missing? [Edit this page](https://github.com/craftcms/awesome/edit/main/README.md)!
 
-[Craft CMS](https://craftcms.com) is a focused content management system for developers, designers, and web professionals that blends flexibility, power, and ease of use for clients. Built to be as exceptionably scalable and as flexible as possible, without compromising on the ease of use for content authors.
+**[Craft CMS](https://craftcms.com) is a flexible, extensible content management system for building bespoke digital experiences.**
 
 ### Contributing
 Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first. If you see an article or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Also, ideas for more categories [are needed](https://github.com/chasegiunta/awesome-craft/issues/2)! Thank you to all contributors; you rock!
@@ -38,21 +36,18 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Official Links
 
 - **Website** - [craftcms.com](https://craftcms.com)
+- **Newsletter** - [craftcms.com/newsletter](https://craftcms.com/newsletter)
 - **Craft Commerce** - [craftcms.com/commerce](https://craftcms.com/commerce)
-- **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
-- **Craft + Craft Commerce Demos** - [craftcms.com/demo](https://craftcms.com/demo)
-- **Craft CMS Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
-- **Craft CMS 3 Docs** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
-- **Craft CMS 2 Docs** - [craftcms.com/docs/2.x](https://craftcms.com/docs/2.x/) - [Class Reference](https://docs.craftcms.com/api/v2)
-- **Craft Commerce 3 Docs** - [craftcms.com/docs/commerce/3.x](https://craftcms.com/docs/commerce/3.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v3)
-- **Craft Commerce 2 Docs** - [craftcms.com/docs/commerce/2.x](https://craftcms.com/docs/commerce/2.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v2)
-- **Craft Commerce 1 Docs** - [craftcms.com/docs/commerce/1.x](https://craftcms.com/docs/commerce/1.x/)
-- **Craft Nitro 2 Docs** - [craftcms.com/docs/nitro/2.x](https://craftcms.com/docs/nitro/2.x/)
+- **Demos** - [craftcms.com/demo](https://craftcms.com/demo)
+- **Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
+- **Craft CMS 4 Docs** - [craftcms.com/docs/4.x](https://craftcms.com/docs/4.x/) - [Class Reference](https://docs.craftcms.com/api/v4)
+- **Commerce 4 Docs** - [craftcms.com/docs/commerce/4.x](https://craftcms.com/docs/commerce/4.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v4)
 - **Knowledge Base** - [craftcms.com/knowledge-base](https://craftcms.com/knowledge-base)
 - **Partners** - [craftcms.com/partners](https://craftcms.com/partners)
-- **Licence Management** - [id.craftcms.com](https://id.craftcms.com)
+- **Craft Console** - [console.craftcms.com](https://console.craftcms.com)
 - **Repository** - [github.com/craftcms/cms](https://github.com/craftcms/cms)
-- **Dot All Conference** - [dotall.com](http://dotall.com)
+- **Starter Project** - [github.com/craftcms/craft](https://github.com/craftcms/craft)
+- **Dot All Conference** - [craftcms.com/events](https://craftcms.com/events)
 
 ---
 
@@ -60,20 +55,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Craft Coding Challenge](https://craftcodingchallenge.com/) - A training ground for Craft CMS developers to test and improve their coding skills.
 - [Craft Cookbook](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
-- [Craft Link List](http://craftlinklist.com/) - Curated publication collecting interesting links.
 - [CraftQuest](https://craftquest.io/) - Unlimited access to Craft training (and more).
-- [CraftX](https://craftx.io/) - Open source site built on Craft 3, and community of web professionals hosting hangouts.
 - [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
-- [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 - [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
-- [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports.
+- [Issues, Feedback, Discussions](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports on GitHub.
 - [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
-- [Mijingo](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
-- [Professionals](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
-- [Slack](https://craftcms.com/slack) - Join the Slack group dedicated to Craft CMS discussion.
 - [StackExchange](https://craftcms.stackexchange.com) - Q&A for administrators, end users, developers and designers.
-- [Straight Up Craft](http://straightupcraft.com/) - Tutorials, plugin directory, event listings and more.
 - [Twitter](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is [`#craftcms`](https://twitter.com/hashtag/craftcms).
+- [Mastodon](https://mastodon.social/@CraftCMS) - Latest news, on the newest network.
 - [Work With Craft](https://www.workwithcraft.com/) - Dedicated job board aimed to connect employers with Craft professionals.
 
 ---
@@ -82,9 +71,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Craft 4 Plugins](https://plugins.craftcms.com/?craft4)
 - [Craft 3 Plugins](https://plugins.craftcms.com/?craft3)
-- [Submit Craft 3 Plugins](https://id.craftcms.com)
-- [Craft 2 Plugins](https://craftplug.in/)
-- [Plugin Factory](https://pluginfactory.io/)
+- [Developer Portal](https://console.craftcms.com/)
+- [Generator](https://github.com/craftcms/generator/)
 
 ---
 
@@ -94,7 +82,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [PHP](http://www.php.net/) - A popular general-purpose scripting language.
 - [Yii](https://www.yiiframework.com/) - A fast, secure, and efficient PHP framework.
 - [Twig](https://twig.symfony.com/) - The flexible, fast, and secure template engine for PHP.
-- [MySQL](https://www.mysql.com/) - The world's most popular open source database .
+- [MySQL](https://www.mysql.com/) - The world's most popular open source database.
 - [PostgreSQL](https://www.postgresql.org/) - The world's most advanced open source database.
 
 ### Articles
